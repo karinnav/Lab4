@@ -1,0 +1,2632 @@
+LOCUS       X01677                  1272 bp    mRNA    linear   PRI 18-APR-2005
+DEFINITION  Human liver mRNA for glyceraldehyde-3-phosphate dehydrogenase (G3PD,
+            EC 1.2.1.12).
+ACCESSION   X01677
+VERSION     X01677.1
+KEYWORDS    dehydrogenase; glyceraldehyde-3-phosphate dehydrogenase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Hanauer,A. and Mandel,J.L.
+  TITLE     The glyceraldehyde 3 phosphate dehydrogenase gene family: structure
+            of a human cDNA and of an X chromosome linked pseudogene; amazing
+            complexity of the gene family in mouse
+  JOURNAL   EMBO J. 3 (11), 2627-2633 (1984)
+   PUBMED   6096136
+REFERENCE   2  (bases 1 to 1272)
+  AUTHORS   Arcari,P., Martinelli,R. and Salvatore,F.
+  TITLE     The complete sequence of a full length cDNA for human liver
+            glyceraldehyde-3-phosphate dehydrogenase: evidence for multiple mRNA
+            species
+  JOURNAL   Nucleic Acids Res. 12 (23), 9179-9189 (1984)
+   PUBMED   6096821
+REFERENCE   3
+  AUTHORS   Tso,J.Y., Sun,X.H., Kao,T.H., Reece,K.S. and Wu,R.
+  TITLE     Isolation and characterization of rat and human
+            glyceraldehyde-3-phosphate dehydrogenase cDNAs: genomic complexity
+            and molecular evolution of the gene
+  JOURNAL   Nucleic Acids Res. 13 (7), 2485-2502 (1985)
+   PUBMED   2987855
+COMMENT     On Jul 17, 2003 this sequence version replaced K03121.1.
+FEATURES             Location/Qualifiers
+     source          1..1272
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     CDS             61..1068
+                     /EC_number="1.2.1.12"
+                     /note="(aa 1-335)"
+                     /codon_start=1
+                     /product="glyceraldehyde-3-phosphate dehydrogenase"
+                     /protein_id="CAA25833.1"
+                     /db_xref="GDB:119249"
+                     /db_xref="GOA:P04406"
+                     /db_xref="HGNC:HGNC:4141"
+                     /db_xref="InterPro:IPR006424"
+                     /db_xref="InterPro:IPR016040"
+                     /db_xref="InterPro:IPR020828"
+                     /db_xref="InterPro:IPR020829"
+                     /db_xref="InterPro:IPR020830"
+                     /db_xref="InterPro:IPR020831"
+                     /db_xref="PDB:1U8F"
+                     /db_xref="PDB:1ZNQ"
+                     /db_xref="PDB:2FEH"
+                     /db_xref="PDB:3GPD"
+                     /db_xref="UniProtKB/Swiss-Prot:P04406"
+                     /translation="MGKVKVGVNGFGRIGRLVTRAAFNSGKVDIVAINDPFIDLNYMVY
+                     MFQYDSTHGKFHGTVKAENGKLVINGNPITIFQERDPSKIKWGDAGAEYVVESTGVFTT
+                     MEKAGAHLQGGAKRVIISAPSADAPMFVMGVNHEKYDNSLKIISNASCTTNCLAPLAKV
+                     IHDNFGIVEGLMTTVHAITATQKTVDGPSGKLWRDGRGALQNIIPASTGAAKAVGKVIP
+                     ELDGKLTGMAFRVPTANVSVVDLTCRLEKPAKYDDIKKVVKQASEGPLKGILGYTEHQV
+                     VSSDFNSDTHSSTFDAGAGIALNDHFVKLISWYDNEFGYSNRVVDLMAHMASKE"
+     regulatory      1249..1254
+                     /regulatory_class="polyA_signal_sequence"
+     polyA_site      1272
+ORIGIN
+        1 gctcggctgg cgacgcaaaa gaagatgcgg ctgactgtcg agccacatcg ctcagacacc
+       61 atggggaagg tgaaggtcgg agtcaacgga tttggtcgta ttgggcgcct ggtcaccagg
+      121 gctgctttta actctggtaa agtggatatt gttgccatca atgacccctt cattgacctc
+      181 aactacatgg tttacatgtt ccaatatgat tccacccatg gcaaattcca tggcaccgtc
+      241 aaggctgaga acgggaagct tgtcatcaat ggaaatccca tcaccatctt ccaggagcga
+      301 gatccctcca aaatcaagtg gggcgatgct ggcgctgagt acgtcgtgga gtccactggc
+      361 gtcttcacca ccatggagaa ggctggggct catttgcagg ggggagccaa aagggtcatc
+      421 atctctgccc cctctgctga tgcccccatg ttcgtcatgg gtgtgaacca tgagaagtat
+      481 gacaacagcc tcaagatcat cagcaatgcc tcctgcacca ccaactgctt agcacccctg
+      541 gccaaggtca tccatgacaa ctttggtatc gtggaaggac tcatgaccac agtccatgcc
+      601 atcactgcca cccagaagac tgtggatggc ccctccggga aactgtggcg tgatggccgc
+      661 ggggctctcc agaacatcat ccctgcctct actggcgctg ccaaggctgt gggcaaggtc
+      721 atccctgagc tagacgggaa gctcactggc atggccttcc gtgtccccac tgccaacgtg
+      781 tcagtggtgg acctgacctg ccgtctagaa aaacctgcca aatatgatga catcaagaag
+      841 gtggtgaagc aggcgtcgga gggccccctc aaaggcatcc tgggctacac tgagcaccag
+      901 gtggtctcct ctgacttcaa cagcgacacc cactcctcca cctttgacgc tggggctggc
+      961 attgccctca acgaccactt tgtcaagctc atttcctggt atgacaacga atttggctac
+     1021 agcaacaggg tggtggacct catggcccac atggcctcca aggagtaaga cccctggacc
+     1081 accagcccca gcaagagcac aagaggaaga gagagaccct cactgctggg gagtccctgc
+     1141 cacactcaga cccccaccac actgaatctc ccctcctcac agttgccatg tagacccctt
+     1201 gaagagggga ggggcctatg ggagccgcac cttgtcatgt atccatctaa taaagtatcc
+     1261 ctgtgctcaa cc
+//
+LOCUS       KY379509                1680 bp    mRNA    linear   PRI 25-APR-2017
+DEFINITION  Homo sapiens cell line HeLa glucose-6-phosphate isomerase mRNA,
+            complete cds.
+ACCESSION   KY379509
+VERSION     KY379509.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1680)
+  AUTHORS   Park,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-DEC-2016) Biotechnology, Catholic University of Daegu,
+            St. Thomas Hall 316, Hayang, Gyungsan, Gyungbuk 38430, Republic of
+            Korea
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1680
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="HeLa"
+                     /cell_type="cervical carcinoma"
+     CDS             1..1680
+                     /EC_number="5.3.1.9"
+                     /codon_start=1
+                     /product="glucose-6-phosphate isomerase"
+                     /protein_id="ARJ36701.1"
+                     /translation="MAALTRDPQFQKLQQWYREHRSELNLRRLFDANKDRFNHFSLTLN
+                     TNHGHILVDYSKNLVTEDVMRMLVDLAKSRGVEAARERMFNGEKINYTEGRAVLHVALR
+                     NRSNTPILVDGKDVMPEVNKVLDKMKSFCQRVRSGDWKGYTGKTITDVINIGIGGSDLG
+                     PLMVTEALKPYSSGGPRVWYVSNIDGTHIAKTLAQLNPESSLFIIASKTFTTQETITNA
+                     ETAKEWFLQAAKDPSAVAKHFVALSTNTTKVKEFGIDPQNMFEFWDWVGGRYSLWSAIG
+                     LSIAWHVGFDNFEQLLSGAHWMDHHFRTTPLEKNAPVLLALLGIWYINCLWGCETHAML
+                     PYDQYLQRFAAYFQQGDLESNGKYITKSGTRVDHQTGPIVWGEPGTNGQHAFYQLIHQG
+                     TKMIPCDFLIPVQTQHPIRKGLHHKILLANFLAQTEALMRGKSTEEARKELQAAGKSPE
+                     DLERLLPHKVFEGNRPTNSIVFTKLTPFMLGALVAMYEHKIFVQGIIWDINSFDQWGVE
+                     LGKQLAKKIEPELDGSAQVTSHDASTNGLINFIKQQREARVQ"
+ORIGIN
+        1 atggccgctc tcacccggga cccccagttc cagaagctgc agcaatggta ccgcgagcac
+       61 cgctccgagc tgaacctgcg ccgcctcttc gatgccaaca aggaccgctt caaccacttc
+      121 agcttgaccc tcaacaccaa ccatgggcat atcctggtgg attactccaa gaacctggtg
+      181 acggaggacg tgatgcggat gctggtggac ttggccaagt ccaggggcgt ggaggccgcc
+      241 cgggagcgga tgttcaatgg tgagaagatc aactacaccg agggtcgagc cgtgctgcac
+      301 gtggctctgc ggaaccggtc aaacacaccc atcctggtag acggcaagga tgtgatgcca
+      361 gaggtcaaca aggttctgga caagatgaag tctttctgcc agcgtgtccg gagcggtgac
+      421 tggaaggggt acacaggcaa gaccatcacg gacgtcatca acattggcat tggcggctcc
+      481 gacctggggc ccctcatggt gactgaagcc cttaagccat actcttcagg aggtccccgc
+      541 gtctggtatg tctccaacat tgatggaact cacattgcca aaaccctggc ccagctgaac
+      601 cccgagtcct ccctgttcat cattgcctcc aagaccttta ctacccagga gaccatcacg
+      661 aatgcagaga cggcgaagga gtggtttctc caggcggcca aggatccttc tgcagtggcg
+      721 aagcactttg ttgccctgtc tactaacaca accaaagtga aggagtttgg aattgaccct
+      781 caaaacatgt tcgagttctg ggattgggtg ggaggacgct actcgctgtg gtcggccatc
+      841 ggactctcca ttgcctggca cgtgggtttt gacaacttcg agcagctgct ctcgggggct
+      901 cactggatgg atcaccactt ccgcacgacg cccctggaga agaacgcccc cgtcttgctg
+      961 gccctgctgg gtatctggta catcaactgc ctttggggtt gtgagacaca cgccatgctg
+     1021 ccctatgacc agtacttgca acgctttgct gcgtacttcc agcagggcga cctggagtcc
+     1081 aatgggaaat acatcaccaa atctggaacc cgtgtggacc accagacagg ccccattgtg
+     1141 tggggggagc cagggaccaa tggccagcat gctttttacc agctcatcca ccaaggcacc
+     1201 aagatgatac cctgtgactt cctcatcccg gtccagaccc agcaccccat acggaagggt
+     1261 ctgcatcaca agatcctcct ggccaacttc ttggcccaga cagaggccct gatgagggga
+     1321 aaatcgacgg aggaggcccg aaaggagctc caggctgcgg gcaagagtcc agaggacctt
+     1381 gagaggctgc tgccacataa ggtctttgaa ggaaatcgcc caaccaactc tattgtgttc
+     1441 accaagctca caccattcat gcttggagcc ttggtcgcca tgtatgagca caagatcttc
+     1501 gttcagggca tcatctggga catcaacagc tttgaccagt ggggagtgga gctgggaaag
+     1561 cagctggcta agaaaataga gcctgagctt gatggcagtg ctcaagtgac ctctcacgac
+     1621 gcttctacca atgggctcat caacttcatc aagcagcagc gcgaggccag agtccaataa
+//
+LOCUS       NM_001428               1781 bp    mRNA    linear   PRI 28-JUL-2018
+DEFINITION  Homo sapiens enolase 1 (ENO1), transcript variant 1, mRNA.
+ACCESSION   NM_001428
+VERSION     NM_001428.5
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1781)
+  AUTHORS   Zakrzewicz D, Didiasova M, Kruger M, Giaimo BD, Borggrefe T, Mieth
+            M, Hocke AC, Zakrzewicz A, Schaefer L, Preissner KT and Wygrecka M.
+  TITLE     Protein arginine methyltransferase 5 mediates enolase-1 cell surface
+            trafficking in human lung adenocarcinoma cells
+  JOURNAL   Biochim. Biophys. Acta 1864 (5 Pt A), 1816-1827 (2018)
+   PUBMED   29501774
+  REMARK    GeneRIF: Protein arginine methyltransferase 5 (PRMT5) was identified
+            to be responsible for Eno-1 methylation. Overexpression of PRMT5 and
+            caveolin-1 enhanced levels of membrane-bound extracellular Eno-1
+            and, conversely, pharmacological inhibition of PRMT5 attenuated
+            Eno-1 cell-surface localization.
+REFERENCE   2  (bases 1 to 1781)
+  AUTHORS   Okudela K, Mitsui H, Matsumura M, Arai H, Shino K, Sekine A, Woo T,
+            Suzuki T, Ishikawa Y, Umeda S, Tajiri M, Masuda M and Ohashi K.
+  TITLE     The potential significance of alpha-enolase (ENO1) in lung
+            adenocarcinomas - A utility of the immunohistochemical expression in
+            pathologic diagnosis
+  JOURNAL   Pathol. Int. 67 (12), 602-609 (2017)
+   PUBMED   29090499
+  REMARK    GeneRIF: ENO1 is a crucial factor promoting neoplastic
+            transformation exclusively in terminal respiratory unit (TRU)
+            subtype lung adenocarcinomas (ADCs).
+REFERENCE   3  (bases 1 to 1781)
+  AUTHORS   Sun L, Guo C, Cao J, Burnett J, Yang Z, Ran Y and Sun D.
+  TITLE     Over-Expression of Alpha-Enolase as a Prognostic Biomarker in
+            Patients with Pancreatic Cancer
+  JOURNAL   Int J Med Sci 14 (7), 655-661 (2017)
+   PUBMED   28824297
+  REMARK    GeneRIF: Our results suggested that alpha-enolase level was
+            significantly elevated in pancreatic cancer tissues, which was
+            closely associated with pancreatic cancer progression Publication
+            Status: Online-Only
+REFERENCE   4  (bases 1 to 1781)
+  AUTHORS   Lung J, Liu KJ, Chang JY, Leu SJ and Shih NY.
+  TITLE     MBP-1 is efficiently encoded by an alternative transcript of the
+            ENO1 gene but post-translationally regulated by proteasome-dependent
+            protein turnover
+  JOURNAL   FEBS J. 277 (20), 4308-4321 (2010)
+   PUBMED   20849415
+  REMARK    GeneRIF: novel transcript was alternatively transcribed from intron
+            III of the ENO1 gene and was feasible for MBP-1 production
+REFERENCE   5  (bases 1 to 1781)
+  AUTHORS   Feo S, Arcuri D, Piddini E, Passantino R and Giallongo A.
+  TITLE     ENO1 gene product binds to the c-myc promoter and acts as a
+            transcriptional repressor: relationship with Myc promoter-binding
+            protein 1 (MBP-1)
+  JOURNAL   FEBS Lett. 473 (1), 47-52 (2000)
+   PUBMED   10802057
+REFERENCE   6  (bases 1 to 1781)
+  AUTHORS   Subramanian A and Miller DM.
+  TITLE     Structural analysis of alpha-enolase. Mapping the functional domains
+            involved in down-regulation of the c-myc protooncogene
+  JOURNAL   J. Biol. Chem. 275 (8), 5958-5965 (2000)
+   PUBMED   10681589
+REFERENCE   7  (bases 1 to 1781)
+  AUTHORS   Dawson SJ and White LA.
+  TITLE     Treatment of Haemophilus aphrophilus endocarditis with ciprofloxacin
+  JOURNAL   J. Infect. 24 (3), 317-320 (1992)
+   PUBMED   1602151
+REFERENCE   8  (bases 1 to 1781)
+  AUTHORS   Oliva D, Cali L, Feo S and Giallongo A.
+  TITLE     Complete structure of the human gene encoding neuron-specific
+            enolase
+  JOURNAL   Genomics 10 (1), 157-165 (1991)
+   PUBMED   2045099
+REFERENCE   9  (bases 1 to 1781)
+  AUTHORS   Ray R and Miller DM.
+  TITLE     Cloning and characterization of a human c-myc promoter-binding
+            protein
+  JOURNAL   Mol. Cell. Biol. 11 (4), 2154-2161 (1991)
+   PUBMED   2005901
+REFERENCE   10  (bases 1 to 1781)
+  AUTHORS   Wistow GJ, Lietman T, Williams LA, Stapel SO, de Jong WW, Horwitz J
+            and Piatigorsky J.
+  TITLE     Tau-crystallin/alpha-enolase: one gene encodes both an enzyme and a
+            lens structural protein
+  JOURNAL   J. Cell Biol. 107 (6 Pt 2), 2729-2736 (1988)
+   PUBMED   2462567
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189655.75182.1,
+            RNAseq introns              :: single sample supports all introns
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK309177.1 and BC021166.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 10, 2018 this sequence version replaced NM_001428.4.
+            Summary: This gene encodes alpha-enolase, one of three enolase
+            isoenzymes found in mammals. Each isoenzyme is a homodimer composed
+            of 2 alpha, 2 gamma, or 2 beta subunits, and functions as a
+            glycolytic enzyme. Alpha-enolase in addition, functions as a
+            structural lens protein (tau-crystallin) in the monomeric form.
+            Alternative splicing of this gene results in a shorter isoform that
+            has been shown to bind to the c-myc promoter and function as a
+            tumor suppressor. Several pseudogenes have been identified,
+            including one on the long arm of chromosome 1. Alpha-enolase has
+            also been identified as an autoantigen in Hashimoto encephalopathy.
+            [provided by RefSeq, Jan 2011].
+            Transcript Variant: This variant (1) encodes isoform (1), which is
+            localized to the cytosol, and has alpha-enolase activity. It has
+            been reported that the monomeric form of this isoform functions as
+            a structural lens protein (tau-crystallin), and the dimeric form as
+            an enolase (PMID:2462567).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            SRR5189658.211206.1 [ECO:0000332]
+            SAMEA1968968, SAMEA2142670
+            [ECO:0000348]
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1781
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p36.23"
+     gene            1..1781
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /note="enolase 1"
+                     /db_xref="GeneID:2023"
+                     /db_xref="HGNC:HGNC:3350"
+                     /db_xref="MIM:172430"
+     exon            1..107
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    105..107
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /note="upstream in-frame stop codon"
+     exon            108..201
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             117..1421
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /EC_number="4.2.1.11"
+                     /note="isoform 1 is encoded by transcript variant 1; MYC
+                     promoter-binding protein 1; non-neural enolase;
+                     2-phospho-D-glycerate hydro-lyase; tau-crystallin; c-myc
+                     promoter-binding protein-1; phosphopyruvate hydratase;
+                     alpha enolase like 1; plasminogen-binding protein;
+                     enolase-alpha; epididymis secretory protein Li 17; enolase
+                     1, (alpha)"
+                     /codon_start=1
+                     /product="alpha-enolase isoform 1"
+                     /protein_id="NP_001419.1"
+                     /db_xref="CCDS:CCDS97.1"
+                     /db_xref="GeneID:2023"
+                     /db_xref="HGNC:HGNC:3350"
+                     /db_xref="MIM:172430"
+                     /translation="MSILKIHAREIFDSRGNPTVEVDLFTSKGLFRAAVPSGASTGIYE
+                     ALELRDNDKTRYMGKGVSKAVEHINKTIAPALVSKKLNVTEQEKIDKLMIEMDGTENKS
+                     KFGANAILGVSLAVCKAGAVEKGVPLYRHIADLAGNSEVILPVPAFNVINGGSHAGNKL
+                     AMQEFMILPVGAANFREAMRIGAEVYHNLKNVIKEKYGKDATNVGDEGGFAPNILENKE
+                     GLELLKTAIGKAGYTDKVVIGMDVAASEFFRSGKYDLDFKSPDDPSRYISPDQLADLYK
+                     SFIKDYPVVSIEDPFDQDDWGAWQKFTASAGIQVVGDDLTVTNPKRIAKAVNEKSCNCL
+                     LLKVNQIGSVTESLQACKLAQANGWGVMVSHRSGETEDTFIADLVVGLCTGQIKTGAPC
+                     RSERLAKYNQLLRIEEELGSKAKFAGRNFRNPLAK"
+     misc_feature    120..122
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylserine. {ECO:0000244|PubMed:25944712,
+                     ECO:0000269|Ref.14}; propagated from UniProtKB/Swiss-Prot
+                     (P06733.2); acetylation site"
+     misc_feature    129..131
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    195..197
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     phosphorylation site"
+     misc_feature    207..230
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     Region: Epitope recognized by CAR and healthy patient
+                     antibodies"
+     misc_feature    246..248
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine. {ECO:0000244|PubMed:15592455};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     phosphorylation site"
+     misc_feature    282..305
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     Region: Epitope recognized by CAR antibodies"
+     misc_feature    294..296
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P17182}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); acetylation site"
+     misc_feature    294..296
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P17182}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); modified site"
+     misc_feature    306..308
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    327..329
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    381..383
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000244|PubMed:19608861}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); acetylation site"
+     misc_feature    381..383
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P17182}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); modified site"
+     misc_feature    390..392
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P17182};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    405..827
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     Region: Required for repression of c-myc promoter activity"
+     misc_feature    492..494
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    693..695
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    711..713
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    720..722
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P17182}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); acetylation site"
+     misc_feature    798..800
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000244|PubMed:19608861}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); acetylation site"
+     misc_feature    798..800
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P17182}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); modified site"
+     misc_feature    813..815
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000244|PubMed:19608861}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); acetylation site"
+     misc_feature    813..815
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-malonyllysine, alternate.
+                     {ECO:0000269|PubMed:21908771}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); modified site"
+     misc_feature    876..878
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); phosphorylation site"
+     misc_feature    882..884
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    903..905
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:23186163, ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     phosphorylation site"
+     misc_feature    930..932
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:19690332,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); phosphorylation site"
+     misc_feature    957..959
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    969..971
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000244|PubMed:19608861};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    975..977
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine. {ECO:0000244|PubMed:15592455};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     phosphorylation site"
+     misc_feature    987..989
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     phosphorylation site"
+     misc_feature    1119..1121
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P17182};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    1143..1145
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P17182};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    1224..1235
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     Region: Substrate binding. {ECO:0000250}"
+     misc_feature    1329..1418
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     Region: Required for interaction with PLG. {ECO:0000250}"
+     misc_feature    1332..1334
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P17182};
+                     propagated from UniProtKB/Swiss-Prot (P06733.2);
+                     acetylation site"
+     misc_feature    1374..1376
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000244|PubMed:19608861}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); acetylation site"
+     misc_feature    1374..1376
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-malonyllysine, alternate.
+                     {ECO:0000269|PubMed:21908771}; N6-succinyllysine,
+                     alternate. {ECO:0000250|UniProtKB:P17182}; propagated from
+                     UniProtKB/Swiss-Prot (P06733.2); modified site"
+     exon            202..297
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            298..356
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            357..426
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            427..560
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            561..783
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            784..981
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            982..1183
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1184..1292
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1293..1351
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1352..1781
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN
+        1 agtatctgtg ggtacccgga gcacggagat ctcgccggct ttacgttcac ctcggtgtct
+       61 gcagcaccct ccgcttcctc tcctaggcga cgagacccag tggctagaag ttcaccatgt
+      121 ctattctcaa gatccatgcc agggagatct ttgactctcg cgggaatccc actgttgagg
+      181 ttgatctctt cacctcaaaa ggtctcttca gagctgctgt gcccagtggt gcttcaactg
+      241 gtatctatga ggccctagag ctccgggaca atgataagac tcgctatatg gggaagggtg
+      301 tctcaaaggc tgttgagcac atcaataaaa ctattgcgcc tgccctggtt agcaagaaac
+      361 tgaacgtcac agaacaagag aagattgaca aactgatgat cgagatggat ggaacagaaa
+      421 ataaatctaa gtttggtgcg aacgccattc tgggggtgtc ccttgccgtc tgcaaagctg
+      481 gtgccgttga gaagggggtc cccctgtacc gccacatcgc tgacttggct ggcaactctg
+      541 aagtcatcct gccagtcccg gcgttcaatg tcatcaatgg cggttctcat gctggcaaca
+      601 agctggccat gcaggagttc atgatcctcc cagtcggtgc agcaaacttc agggaagcca
+      661 tgcgcattgg agcagaggtt taccacaacc tgaagaatgt catcaaggag aaatatggga
+      721 aagatgccac caatgtgggg gatgaaggcg ggtttgctcc caacatcctg gagaataaag
+      781 aaggcctgga gctgctgaag actgctattg ggaaagctgg ctacactgat aaggtggtca
+      841 tcggcatgga cgtagcggcc tccgagttct tcaggtctgg gaagtatgac ctggacttca
+      901 agtctcccga tgaccccagc aggtacatct cgcctgacca gctggctgac ctgtacaagt
+      961 ccttcatcaa ggactaccca gtggtgtcta tcgaagatcc ctttgaccag gatgactggg
+     1021 gagcttggca gaagttcaca gccagtgcag gaatccaggt agtgggggat gatctcacag
+     1081 tgaccaaccc aaagaggatc gccaaggccg tgaacgagaa gtcctgcaac tgcctcctgc
+     1141 tcaaagtcaa ccagattggc tccgtgaccg agtctcttca ggcgtgcaag ctggcccagg
+     1201 ccaatggttg gggcgtcatg gtgtctcatc gttcggggga gactgaagat accttcatcg
+     1261 ctgacctggt tgtggggctg tgcactgggc agatcaagac tggtgcccct tgccgatctg
+     1321 agcgcttggc caagtacaac cagctcctca gaattgaaga ggagctgggc agcaaggcta
+     1381 agtttgccgg caggaacttc agaaacccct tggccaagta agctgtgggc aggcaagccc
+     1441 ttcggtcacc tgttggctac acagacccct cccctcgtgt cagctcaggc agctcgaggc
+     1501 ccccgaccaa cacttgcagg ggtccctgct agttagcgcc ccaccgccgt ggagttcgta
+     1561 ccgcttcctt agaacttcta cagaagccaa gctccctgga gccctgttgg cagctctagc
+     1621 tttgcagtcg tgtaattggc ccaagtcatt gtttttctcg cctcactttc caccaagtgt
+     1681 ctagagtcat gtgagcctcg tgtcatctcc ggggtggcca caggctagat ccccggtggt
+     1741 tttgtgctca aaataaaaag cctcagtgac ccatgagaat a
+//
+LOCUS       HSU20352                1213 bp    mRNA    linear   PRI 15-MAY-1998
+DEFINITION  Homo sapiens malate dehydrogenase (MDHA) mRNA, complete cds.
+ACCESSION   U20352
+VERSION     U20352.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1213)
+  AUTHORS   Lo,A.S.Y. and Waye,M.M.Y.
+  TITLE     Characterization of human heart cDNA clones coding for cytosolic
+            malate dehydrogenase
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1213)
+  AUTHORS   Lo,A.S.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-1995) Agnes S.Y. Lo, Biochemistry, The Chinese
+            University of Hong Kong, Shatin, Hong Kong, Hong Kong
+REFERENCE   3  (bases 1 to 1213)
+  AUTHORS   Lo,A.S.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAY-1998) Agnes S.Y. Lo, Biochemistry, The Chinese
+            University of Hong Kong, Shatin, Hong Kong, Hong Kong
+  REMARK    Sequence update by submitter
+COMMENT     On May 15, 1998 this sequence version replaced gi:755818.
+FEATURES             Location/Qualifiers
+     source          1..1213
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="HUMMDHA"
+                     /tissue_type="heart"
+                     /dev_stage="adult; fetal"
+     gene            1..1213
+                     /gene="MDHA"
+     CDS             1..1005
+                     /gene="MDHA"
+                     /codon_start=1
+                     /product="malate dehydrogenase"
+                     /protein_id="AAC16436.1"
+                     /translation="MSEPIRVLVTGAAGQIAYSLLYSIGNGSVFGKDQPIILVLLDITP
+                     MMGVLDGVLMELQDCALPLLKDVIATDKEDVAFKDLDVAILVGSMPRREGMERKDLLKA
+                     NVKIFKSQGAALDKYAKKSVKVIVVGNPANTNCLTASKSAPSIPKENFSCLTRLDHNRA
+                     KAQIALKLGVTANDVKNVIIWGNHSSTQYPDVNHAKVKLQGKEVGVYEALKDDSWLKGE
+                     FVTTVQQRGAAVIKARKLSSAMSAAKAICDHVRDIWFGTPEGEFVSMGVISDGNSYGVP
+                     DDLLYSFPVVIKNKTWKFVEGLPINDFSREKMDLTAKELTEEKESAFEFLSSA"
+     3'UTR           1006..1213
+                     /gene="MDHA"
+     regulatory      1193..1198
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MDHA"
+     polyA_site      1213
+                     /gene="MDHA"
+ORIGIN
+        1 atgtctgaac caatcagagt ccttgtgact ggagcagctg gtcaaattgc atattcactg
+       61 ctgtacagta ttggaaatgg atctgtcttt ggtaaagatc agcctataat tcttgtgctg
+      121 ttggatatca cccccatgat gggtgtcctg gacggtgtcc taatggaact gcaagactgt
+      181 gcccttcccc tcctgaaaga tgtcatcgca acagataaag aagacgttgc cttcaaagac
+      241 ctggatgtgg ccattcttgt gggctccatg ccaagaaggg aaggcatgga gagaaaagat
+      301 ttactgaaag caaatgtgaa aatcttcaaa tcccagggtg cagccttaga taaatacgcc
+      361 aagaagtcag ttaaggttat tgttgtgggt aatccagcca ataccaactg cctgactgct
+      421 tccaagtcag ctccatccat ccccaaggag aacttcagtt gcttgactcg tttggatcac
+      481 aaccgagcta aagctcaaat tgctcttaaa cttggtgtga ctgctaatga tgtaaagaat
+      541 gtcattatct ggggaaacca ttcctcgact cagtatccag atgtcaacca tgccaaggtg
+      601 aaattgcaag gaaaggaagt tggtgtttat gaagctctga aagatgacag ctggctcaag
+      661 ggagaatttg tcacgactgt gcagcagcgt ggcgctgctg tcatcaaggc tcgaaaacta
+      721 tccagtgcca tgtctgctgc aaaagccatc tgtgaccacg tcagggacat ctggtttgga
+      781 accccagagg gagagtttgt gtccatgggt gttatctctg atggcaactc ctatggtgtt
+      841 cctgatgatc tgctctactc attccctgtt gtaatcaaga ataagacctg gaagtttgtt
+      901 gaaggtctcc ctattaatga tttctcacgt gagaagatgg atcttactgc aaaggaactg
+      961 acagaagaaa aagaaagtgc ttttgaattt ctttcctctg cctgactaga caatgatgtt
+     1021 actaaatgct tcaaagctga agaatctaaa tgtcgtcttt gactcaagta ccaaataata
+     1081 ataatgctat acttaaatta cttgtgaaaa acaacacatt ttaaagatta cgtgcttctt
+     1141 ggtacaggtt tgtgaatgac agtttatcgt catgctgtta gtgtgcattc taaataaata
+     1201 tatattcaaa tga
+//
+LOCUS       HSU52144                1596 bp    mRNA    linear   PRI 25-APR-1996
+DEFINITION  Human isocitrate dehydrogenase mRNA, complete cds.
+ACCESSION   U52144
+VERSION     U52144.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1596)
+  AUTHORS   Luo,H., Shan,X. and Wu,J.
+  TITLE     Expression of human mitochondrial NADP-dependent isocitrate
+            dehydrogenase during lymphocyte activation
+  JOURNAL   J. Cell. Biochem. 60 (4), 495-507 (1996)
+   PUBMED   8707889
+REFERENCE   2  (bases 1 to 1596)
+  AUTHORS   Wu,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-1996) Jiangping Wu, Notre-Dame Hospital Research
+            Center, University of Montreal, 1560 Sherbrooke East, Montreal,
+            Quebec H2L 4M1, Canada
+FEATURES             Location/Qualifiers
+     source          1..1596
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+     CDS             44..1303
+                     /codon_start=1
+                     /product="isocitrate dehydrogenase"
+                     /protein_id="AAC50455.1"
+                     /translation="MSSLRTSGTASWSGSLGDLEHVEAHCLAQRPALAHCDDVTDLDVQ
+                     LKYFDLGLPNRDQTDDQVTIDSALATQKYSVAVKCATITPDEARVEEFKLKKMWKSPNG
+                     TIRNIHGGTVFREPIICKNIPRLVPGWTKPITIGRHAHGDQYKATDFVADRAGTFKMVF
+                     TPKDGSGVKEWEVYNFPAGGVGMGMYNTDESISGFAHSCFQYAIQKKWPLYMSTKNTIL
+                     KAYDGRFKDIFQEIFDKHYKTDFDKNKIWYEHRLIDDMVAQVLKSSGGFVWACKNYDGD
+                     VQSDILAQGFGSLGLMTSVLVCPDGKTIEAEAAHGTVTRHYREHQKGRPTSTNPIASIF
+                     AWTRGLEHRGKLDGNQDLIRFAQMLEKVCVETVESGAMTKDLAGCIHGLSNVKLNEHFL
+                     NTTDFLDTIKSNLDRALGRQ"
+ORIGIN
+        1 gggaatgaga aaataacttt atttcattgt ggggagcggg ccgatgtcca gcctcagaac
+       61 ttctggaact gcttcttggt ccggcagcct tggtgacctt gagcacgttg aagcgcactg
+      121 tcttgctcag aggccggcac tcgcccactg tgacgatgtc accgatctgg acgtccagct
+      181 aaagtatttt gacctcgggc tcccaaaccg tgaccagact gatgaccagg tcaccattga
+      241 ctctgcactg gccacccaga agtacagtgt ggctgtcaag tgtgccacca tcacccctga
+      301 tgaggcccgt gtggaagagt tcaagctgaa gaagatgtgg aaaagtccca atggaactat
+      361 ccggaacatc catgggggga ctgtcttccg ggagcccatc atctgcaaaa acatcccacg
+      421 cctagtccct ggctggacca agcccatcac cattggcagg cacgcccatg gcgaccagta
+      481 caaggccaca gactttgtgg cagaccgggc cggcactttc aaaatggtct tcaccccaaa
+      541 agatggcagt ggtgtcaagg agtgggaagt gtacaacttc cccgcaggcg gcgtgggcat
+      601 gggcatgtac aacaccgacg agtccatctc aggttttgcg cacagctgct tccagtatgc
+      661 catccagaag aaatggccgc tgtacatgag caccaagaac accatactga aagcctacga
+      721 tgggcgtttc aaggacatct tccaggagat ctttgacaag cactataaga ccgacttcga
+      781 caagaataag atctggtatg agcaccggct cattgatgac atggtggctc aggtcctcaa
+      841 gtcttcgggc ggctttgtgt gggcctgcaa gaactatgac ggagatgtgc agtcagacat
+      901 cctggcccag ggctttggct cccttggcct gatgacgtcc gtcctggtct gccctgatgg
+      961 gaagacgatt gaggctgagg ccgctcatgg gaccgtcacc cgccactatc gggagcacca
+     1021 gaagggccgg cccaccagca ccaaccccat cgccagcatc tttgcctgga cacgtggcct
+     1081 ggagcaccgg gggaagctgg atgggaacca agacctcatc aggtttgccc agatgctgga
+     1141 gaaggtgtgc gtggagacgg tggagagtgg agccatgacc aaggacctgg cgggctgcat
+     1201 tcacggcctc agcaatgtga agctgaacga gcacttcctg aacaccacgg acttcctcga
+     1261 caccatcaag agcaacctgg acagagccct gggcaggcag tagggggagg cgccacccat
+     1321 ggctgcagtg gaggggccag ggctgagccg gcgggtcctc ctgagcgcgg cagagggtga
+     1381 gcctcacagc ccctctctgg aggcctttct aggggatgtt tttttataag ccagatgttt
+     1441 ttaaaagcat atgtgtgttt cccctcatgg tgacgtgagg caggagcagt gcgttttacc
+     1501 tcagccagtc agtatgtttt gcatactgta atttatattg cccttggaac acatggtgcc
+     1561 atatttagct actaaaaagc tcttcgcaaa aaaaaa
+//
+LOCUS       AK316463                1464 bp    mRNA    linear   PRI 21-JAN-2009
+DEFINITION  Homo sapiens cDNA, FLJ79362 complete cds, moderately similar to
+            Dihydrolipoyllysine-residue succinyltransferase component of
+            2-oxoglutarate dehydrogenase complex, mitochondrial precursor (EC
+            2.3.1.61).
+ACCESSION   AK316463
+VERSION     AK316463.1
+KEYWORDS    FLI_CDNA; oligo capping.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Wakamatsu,A., Yamamoto,J., Kimura,K., Ishii,S., Watanabe,K.,
+            Sugiyama,A., Murakawa,K., Kaida,T., Tsuchiya,K., Fukuzumi,Y.,
+            Kumagai,A., Oishi,Y., Yamamoto,S., Ono,Y., Komori,Y., Yamazaki,M.,
+            Kisu,Y., Nishikawa,T., Sugano,S., Nomura,N. and Isogai,T.
+  TITLE     NEDO human cDNA sequencing project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Isogai,T. and Yamamoto,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2008) Contact:Takao Isogai Reverse Proteomics
+            Research Institute; 1-9-11 Kaji-cho, Chiyoda-ku, Tokyo 101-0044,
+            Japan E-mail :flj-cdna@nifty.com
+COMMENT     Human cDNA sequencing project focused on splicing variants of mRNA
+            in NEDO functional analysis of protein and research application
+            project supported by Ministry of Economy, Trade and Industry,
+            Japan; cDNA selection for complete cds sequencing: Reverse
+            Proteomics Research Institute (REPRORI), Hitachi, Ltd., Japan
+            (Hitachi) and Japan Biological Informatics Consortium, Japan
+            (JBIC); cDNA complete cds sequencing: JBIC; cDNA library
+            construction: Helix Research Institute supported by Japan Key
+            Technology Center, Japan (HRI); cDNA 5'- & 3'-end sequencing:
+            Research Association for Biotechnology, Japan, Biotechnology
+            Center, National Institute of Technology and Evaluation, Japan and
+            HRI; cDNA mapping to human genome: Central Research Laboratory,
+            Hitachi; evaluation and annotation: REPRORI.
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="THYMU3017003"
+                     /tissue_type="thymus"
+                     /clone_lib="THYMU3"
+                     /note="cloning vector: pME18SFL3"
+     CDS             39..242
+                     /note="unnamed protein product; moderately similar to
+                     Dihydrolipoyllysine-residue succinyltransferase component
+                     of 2- oxoglutarate dehydrogenase complex, mitochondrial
+                     precursor (EC 2.3.1.61)"
+                     /codon_start=1
+                     /protein_id="BAH14834.1"
+                     /translation="MLSRSRCVSRAFSRSLSAFQKGNCPLGRRSLPGVSLCQGPGYPNS
+                     RKVVINNSVFSVRFFRTTAVCR"
+ORIGIN
+        1 atatccggtg tccgcccgcc ctcggctcct ccgccgtgat gctgtcccga tcccgctgtg
+       61 tgtctcgggc gttcagccgc tcgctctccg ccttccagaa ggggaactgc cctctaggga
+      121 gacgttccct gcctggggtc tccttatgcc agggaccagg ttaccctaac agcaggaagg
+      181 ttgtcattaa caacagtgtc ttcagtgttc gctttttcag aactacagct gtatgcagat
+      241 gacttggtta cagtcaaaac cccagcgttt gcagaatctg tcacagaggg agatgtcagg
+      301 tgggagaaag acatctgtgc aggttccatc accagcaaat ggcgtgattg aagctctttt
+      361 ggtacctgat gggggaaaag tcgaaggagg cactccactt ttcacactca ggaaaactgg
+      421 tgctgctcct gctaaggcca agccggctga agctcctgct gctgcagccc caaaagcaga
+      481 acctacagca gcggcagttc ctccccctgc agcacccata cccactcaga tgccaccggt
+      541 gccctcgccc tcacagcctc cttctggcaa acctgtgtct gcagtaaaac ccactgttgc
+      601 cccaccacta gctgagccag gagctggcaa aggtctgcgt tcagaacatc gggagaaaat
+      661 gaacaggatg cggcagcgca ttgctcagcg tctgaaggag gcccagaata catgtgcaat
+      721 gctgacaact tttaatgaga ttgacatgag taacatccag gagatgaggg ctcggcacaa
+      781 agaggctttt ttgaagaaac ataacctcaa actaggcttc atgtcggcat ttgtgaaggc
+      841 ctcagccttt gccttgcagg aacagcctgt tgtaaatgca gtgattgacg acacaaccaa
+      901 agaggtggtg tatagggatt atattgacat cagtgttgca gtggccaccc cacggggtct
+      961 ggtggttcca gtcatcagga atgtggaagc tatgaatttt gcagatattg aacggaccat
+     1021 cactgaactg ggagagaagg cccgaaagaa tgaacttgcc attgaagata tggatggcgg
+     1081 taccttcacc attagcaatg gaggcgtttt tggctcgctc tttggaacac ccattatcaa
+     1141 cccccctcag tctgccatcc tggggatgca tggcatcttt gacaggccag tggctatagg
+     1201 aggcaaggta gaggtgcggc ccatgatgta cgtggcactg acctgtgatc accggctgat
+     1261 tgatggcaga gaggctgtga ctttcctccg caaaatcaag gcagcggtag aggatcccag
+     1321 agtcctcctc ctggatcttt aggaggaacc cacacaccct acaagttgat catgcaggaa
+     1381 ctgaaaacca gtcttctccc tgtcccctca tgggtcccgg gttagcctgg tgacaggcag
+     1441 acacatgctg ttggcctcaa gcaa
+//
+LOCUS       AY299638                 140 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens microsatellite FH(GA) sequence within fumarate
+            hydratase (FH) gene, exon 8 and partial cds; nuclear gene for
+            mitochondrial product.
+ACCESSION   AY299638
+VERSION     AY299638.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 140)
+  AUTHORS   Wei,M.H., Toure,O., Glenn,G.M., Pithukpakorn,M., Neckers,L.,
+            Stolle,C., Choyke,P., Grubb,R., Middelton,L., Turner,M.L.,
+            Walther,M.M., Merino,M.J., Zbar,B., Linehan,W.M. and Toro,J.R.
+  TITLE     Novel mutations in FH and expansion of the spectrum of phenotypes
+            expressed in families with hereditary leiomyomatosis and renal cell
+            cancer
+  JOURNAL   J. Med. Genet. 43 (1), 18-27 (2006)
+   PUBMED   15937070
+REFERENCE   2  (bases 1 to 140)
+  AUTHORS   Wei,M.-H., Nickerson,M.L. and Toro,J.R.
+  TITLE     Dinucleotide repeat polymorphisms in the fumarate hydratase gene of
+            human chromosome 1q42.3
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 140)
+  AUTHORS   Wei,M.-H., Nickerson,M.L. and Toro,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAY-2003) DCEG, National Cancer Institute, 8717
+            Grovemont Circle, Gaithersburg, MD 20892, USA
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1q42.3"
+     gene            <1..>140
+                     /gene="FH"
+     repeat_region   1..140
+                     /gene="FH"
+                     /note="microsatellite FH(GA)"
+                     /rpt_type=tandem
+                     /rpt_unit_seq="tc"
+     primer_bind     1..20
+                     /PCR_conditions="Tm 55C"
+     mRNA            <115..>140
+                     /gene="FH"
+                     /product="fumarate hydratase"
+     CDS             <115..>140
+                     /gene="FH"
+                     /note="mitochondrial protein"
+                     /codon_start=1
+                     /product="fumarate hydratase"
+                     /protein_id="AAP57532.1"
+                     /translation="IKNVLHSA"
+     exon            115..>140
+                     /gene="FH"
+                     /number=8
+     primer_bind     complement(121..140)
+ORIGIN
+        1 gtatatttac tgtcaaccag aaaataatat gttattggac aaaaaacatg ttgccttagt
+       61 aatgtctctc tctctctctc tctctctctc tctctctctc tcactcactc aaagattaaa
+      121 aatgtgttac actcagccag
+//
+LOCUS       X67688                  2106 bp    mRNA    linear   PRI 09-MAY-1996
+DEFINITION  H.sapiens mRNA for transketolase.
+ACCESSION   X67688
+VERSION     X67688.1
+KEYWORDS    transketolase.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2104)
+  AUTHORS   Abedinia,M., Layfield,R., Jones,S.M., Nixon,P.F. and Mattick,J.S.
+  TITLE     Nucleotide and predicted amino acid sequence of a cDNA clone
+            encoding part of human transketolase
+  JOURNAL   Biochem. Biophys. Res. Commun. 183 (3), 1159-1166 (1992)
+   PUBMED   1567394
+REFERENCE   2
+  AUTHORS   McCool,B.A., Plonk,S.G., Martin,P.R. and Singleton,C.K.
+  TITLE     Cloning of human transketolase cDNAs and comparison of the
+            nucleotide sequence of the coding region in Wernicke-Korsakoff and
+            non-Wernicke-Korsakoff individuals
+  JOURNAL   J. Biol. Chem. 268 (2), 1397-1404 (1993)
+   PUBMED   8419340
+REFERENCE   3  (bases 1 to 2104)
+  AUTHORS   Singleton,C.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1992) C.K. Singleton, Vanderbilt University, Box
+            1820, Station B, Nashville, TN 37235, USA
+COMMENT     On Aug 11, 2005 this sequence version replaced S52775.1.
+FEATURES             Location/Qualifiers
+     source          1..2106
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="pTKa-1, pTKd-1"
+                     /cell_line="Hela (nucleotides residues 1-200 only)"
+                     /tissue_type="frontal cortex, liver"
+                     /clone_lib="frontal cortex and liver cDNA"
+     CDS             71..1942
+                     /EC_number="2.2.1.1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="homodimer"
+                     /codon_start=1
+                     /product="transketolase"
+                     /protein_id="CAA47919.1"
+                     /db_xref="GDB:132402"
+                     /db_xref="GOA:P29401"
+                     /db_xref="HGNC:HGNC:11834"
+                     /db_xref="InterPro:IPR005474"
+                     /db_xref="InterPro:IPR005475"
+                     /db_xref="InterPro:IPR005476"
+                     /db_xref="InterPro:IPR009014"
+                     /db_xref="InterPro:IPR015941"
+                     /db_xref="InterPro:IPR020826"
+                     /db_xref="UniProtKB/Swiss-Prot:P29401"
+                     /translation="MESYHKPDQQKLQALKDTANRLRISSIQASSAAGSGHPTSCCSAA
+                     VIMAVLFFHTMRYKSQDPRNPHNDRFVLSKGHAAPILYAVWAEAGFLAEAELLNLRKIS
+                     SDLDGHPVPKQAFTDVATGSLGQGLGAACGMAYTGKYFDKASYRVYCLLGDGELSEGSV
+                     WEAMAFASIYKLDNLVAILDINRLGQSDPAPLQHQMDIYQKRCEAFGWHAIIVDGHSVE
+                     ELCKAFGQAKHQPTAIIAKTFKGRGITGVEDKESWHGKPLPKNMAEQIIQEIYSQIQSK
+                     KKILATPPQEDAPSVDIANIRMPSLPSYKVGDKIATRKAYGQALAKLGHASDRIIALDG
+                     DTKNSTFSEIFKKEHPDRFIECYIAEQNMVSIAVGCATRNRTVPFCSTFAAFFTRAFDQ
+                     IRMAAISESNINLCGSHCGVSIGEDGASQMALEDLAMFRSVPTSTVFYPSDGVATEKAV
+                     ELAANTKGICFIRTSRPENAIIYNNNEDFQVGQAKVVLKSKDDQVTVIGAGVTLHEALA
+                     AAELLKKEKINIRVLDPFTIKPLDRKLILDSARATKGRILTVEDHYYEGGIGEAVSSAV
+                     VGEPGITVTHLAVNRVPRSGKPAELLKMFGIDRDAIAQAVRGLITKA"
+ORIGIN
+        1 gcgctgtcag ctcgcagcag ccactatctc tgtgtgtccg cgtgtgcgcc cggtccccgc
+       61 ctgccgcacc atggagagct accacaagcc tgaccagcag aagctgcagg ccttgaagga
+      121 cacggccaac cgcctacgta tcagctccat ccaggcctcc tctgcggcgg gctctggcca
+      181 ccccacgtca tgctgcagcg ccgcagtgat catggctgtc ctctttttcc acaccatgcg
+      241 ctacaagtcc caggaccccc ggaatccgca caatgaccgc tttgtgctct ccaagggcca
+      301 tgcagctccc atcctctacg cggtctgggc tgaagctggt ttcctggccg aggcggagct
+      361 gctgaacctg aggaagatca gctccgactt ggacgggcac ccggtcccga aacaagcttt
+      421 caccgacgtg gccactggct ccctgggcca gggcctcggg gccgcttgtg ggatggccta
+      481 caccggcaaa tacttcgaca aggccagcta ccgagtctat tgcttgctgg gagatgggga
+      541 gctgtcagag ggctctgtat gggaggccat ggccttcgcc agcatctata agctggacaa
+      601 ccttgtggcc attctagaca tcaatcgcct gggccagagt gacccggccc cgctgcagca
+      661 ccagatggac atctaccaga agcggtgcga ggccttcggt tggcatgcca tcatcgtgga
+      721 tggacacagc gtggaggagc tgtgcaaggc ctttggccag gccaagcacc agccaacagc
+      781 catcattgcc aagaccttca agggccgagg gatcacgggg gtagaagata aggagtcttg
+      841 gcatgggaag cccctcccca aaaacatggc tgagcagatc atccaggaga tctacagcca
+      901 gatccagagc aaaaagaaga tcctggcaac ccctccacag gaggacgcac cctcagtgga
+      961 cattgccaac atccgcatgc ccagcctgcc cagctacaaa gttggggaca agatagccac
+     1021 ccgcaaggcc tacgggcagg cactggccaa gctgggccat gccagtgacc gcatcatcgc
+     1081 cctggatggg gacaccaaaa attccacctt ctcggagatc ttcaaaaagg agcacccgga
+     1141 ccgcttcatc gagtgctaca ttgccgagca gaacatggtg agcatcgcgg tgggctgtgc
+     1201 cacccgcaac aggacggtgc ccttctgcag cacttttgca gccttcttca cgcgggcctt
+     1261 tgaccagatt cgcatggcgg ccatctccga gagcaacatc aacctctgcg gctcccactg
+     1321 cggcgtttcc atcggggaag acggggcctc ccagatggcc ctagaagatc tggctatgtt
+     1381 tcggtcagtc cccacatcaa ctgtctttta cccaagtgat ggcgttgcta cagagaaggc
+     1441 agtggaacta gccgccaata caaagggtat ctgcttcatc cggaccagcc gcccagaaaa
+     1501 tgccatcatc tataacaaca atgaggactt ccaggtcgga caagccaagg tggtcctgaa
+     1561 gagcaaggat gaccaggtga ccgttatcgg ggctggggtg accctgcacg aggccttggc
+     1621 cgctgccgaa ctgctgaaga aagaaaagat caacatccgc gtgctggacc ccttcaccat
+     1681 caagcccctg gacagaaaac tcattctcga cagcgctcgt gccaccaagg gcaggatcct
+     1741 caccgtggag gaccattatt atgaaggtgg cattggtgag gctgtgtcca gtgcagtagt
+     1801 gggcgagcct ggcatcactg tcacccacct ggcagttaac cgggtaccaa gaagtgggaa
+     1861 gccagctgag ctgctgaaga tgtttggtat cgacagggat gccattgcac aagctgtgag
+     1921 gggcctcatc accaaggcct agggcgggta tgaagtgtgg ggcgggggtc tatacattcc
+     1981 tgagattctg ggaaaggtgc tcaaagatgt actgagagga ggggtaaata tatgttttga
+     2041 gaaaaatgaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     2101 aaaaaa
+//
+LOCUS       ECOGAPAB                 924 bp    DNA     linear   BCT 23-JUL-2016
+DEFINITION  Escherichia coli (strain ECOR 10, isolate ANI/human isolate/NY)
+            glyceraldehyde-3-phosphate dehydrogenase gene, partial cds.
+ACCESSION   M66870
+VERSION     M66870.1
+KEYWORDS    gapA gene; glyceraldehyde-3-phosphate dehydrogenase.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 924)
+  AUTHORS   Nelson,K., Whittam,T.S. and Selander,R.K.
+  TITLE     Nucleotide polymorphism and evolution in the
+            glyceraldehyde-3-phosphate dehydrogenase gene (gapA) in natural
+            populations of Salmonella and Escherichia coli
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 88 (15), 6667-6671 (1991)
+   PUBMED   1862091
+FEATURES             Location/Qualifiers
+     source          1..924
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="ECOR 10"
+                     /isolate="ANI/human isolate/NY"
+                     /db_xref="taxon:562"
+     gene            <1..>924
+                     /gene="gapA"
+     CDS             <1..>924
+                     /gene="gapA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="glyceraldehyde-3-phosphate dehydrogenase"
+                     /protein_id="AAA23838.1"
+                     /translation="INGFGRIGRIVFRAAQKRSDIEIVAINDLLDADYMAYMLKYDSTH
+                     GRFDGTVEVKDGHLIVNGKKIRVTAERDPANLKWDEVGVDVVAEATGLFLTDETARKHI
+                     TAGAKKVVMTGPSKDNTPMFVKGANFDKYAGQDIVSNASCTTNCLAPLAKVINDNFGII
+                     EGLMTTVHATTATQKTVDGPSHKDWRGGRGASQNIIPSSTGAAKAVGKVLPELNGKLTG
+                     MAFRVPTPNVSVVDLTVRLEKAATYEQIKAAVKAAAEGEMKGVLGYTEDDVVSTDFNGE
+                     VCTSVFDAKAGIALNDNFVKLVSWYDN"
+ORIGIN
+        1 atcaacggtt ttggccgtat cggtcgcatt gttttccgtg ctgctcagaa acgttctgac
+       61 atcgagatcg ttgcaatcaa cgacctgtta gacgctgatt acatggcata catgctgaaa
+      121 tatgactcca ctcacggccg tttcgacggt accgttgaag tgaaagacgg tcatctgatc
+      181 gttaacggta aaaaaatccg tgttaccgct gaacgtgatc cggctaacct gaaatgggac
+      241 gaagttggtg ttgacgttgt cgctgaagca actggtctgt tcctgactga cgaaactgct
+      301 cgtaaacaca tcaccgctgg tgcgaagaaa gtggttatga ctggtccgtc taaagacaac
+      361 actccgatgt tcgttaaagg cgctaacttc gacaaatatg ctggccagga catcgtttcc
+      421 aacgcttcct gcaccaccaa ctgcctggct ccgctggcta aagttatcaa cgataacttc
+      481 ggcatcatcg aaggtctgat gaccaccgtt cacgctacta ccgctactca gaaaaccgtt
+      541 gatggcccgt ctcacaaaga ctggcgcggc ggccgcggcg cttcccagaa catcatcccg
+      601 tcctctaccg gtgctgctaa agctgtaggt aaagtactgc cagaactgaa tggcaaactg
+      661 actggtatgg cgttccgcgt tccgaccccg aacgtatctg tagttgacct gaccgttcgt
+      721 ctggaaaaag ctgcaactta cgagcagatc aaagctgccg ttaaagctgc tgctgaaggc
+      781 gaaatgaaag gcgttctggg ctacaccgaa gatgacgtag tatctaccga tttcaacggc
+      841 gaagtttgca cttccgtgtt cgatgctaaa gctggtatcg ctctgaacga caacttcgtg
+      901 aaactggtat cctggtacga caac
+//
+LOCUS       ECU08369                3176 bp    DNA     linear   BCT 13-DEC-1994
+DEFINITION  Escherichia coli phosphoglucomutase (pgm) gene, complete cds.
+ACCESSION   U08369
+VERSION     U08369.1
+KEYWORDS    phosphoglucomutase.
+SOURCE      Escherichia coli K-12
+  ORGANISM  Escherichia coli K-12
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1920)
+  AUTHORS   Lu,M. and Kleckner,N.
+  TITLE     Molecular cloning and characterization of the pgm gene encoding
+            phosphoglucomutase of Escherichia coli
+  JOURNAL   J. Bacteriol. 176 (18), 5847-5851 (1994)
+   PUBMED   8083177
+REFERENCE   2  (bases 1 to 3176)
+  AUTHORS   Lu,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-APR-1994) Min Lu, Cellular and Molecular Biology,
+            Harvard University, 7 Divinity Avenue, Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..3176
+                     /organism="Escherichia coli K-12"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /db_xref="taxon:83333"
+                     /map="15.46; 724 minutes; kb"
+     gene            121..1761
+                     /gene="pgm"
+     CDS             121..1761
+                     /gene="pgm"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phosphoglucomutase"
+                     /protein_id="AAA57067.1"
+                     /translation="MAIHNRAGQPAQQSDLINVAQLTAQYYVLKPEAGNAEHAVKFGTS
+                     GHRGSAARHSFNEPHILAIAQAIAEERAKNGITGPCYVGKDTHALSEPAFISVLEVLAA
+                     NGVDVIVQENNGFTPTPAVSNAILVHNKKGGPLADGIVITPSHNPPEDGGIKYNPPNGG
+                     PADTNVTKVVEDRANALLADGLKGVKRISLDEAMASGHVKEQDLVQPFVEGLADIVDMA
+                     AIQKAGLTLGVDPLGGSGIEYWKRIGEYYNLNLTIVNDQVDQTFRFMHLDKDGAIRMDC
+                     SSECAMAGLLALRDKFDLAFANDPDYDRHGIVTPAGLMNPNHYLAVAINYLFQHRPQWG
+                     KDVAVGKTLVSSAMIDRVVNDLGRKLVEVPVGFKWFVDGLFDGSFGFGGEESAGASFLR
+                     FDGTPWSTDKDGIIMCLLAAEITAVTGKNPQEHYNELAKRFGAPSYNRLQAAATSAQKA
+                     ALSKLSPEMVSASTLAGDPITARLTAAPGNGASIGGLKVMTDNGWFAARPSGTEDAYKI
+                     YCESFLGEEHRKQIEKEAVEIVSEVLKNA"
+ORIGIN
+        1 ccaacaccgg ccgtaaatgc agcatgatcg aacacatcat gcagtcgatg caattcccgg
+       61 cggaattgat tgagaaggtt tgcggaacta tctaaaacgt tgcagacaaa ggacaaagca
+      121 atggcaatcc acaatcgtgc aggccaacct gcacaacaga gtgatttgat taacgtcgcc
+      181 caactgacgg cgcaatatta tgtactgaaa ccagaagcag ggaatgcgga gcacgcggtg
+      241 aaattcggta cttccggtca ccgtggcagt gcagcgcgcc acagctttaa cgagccgcac
+      301 attctggcga tcgctcaggc aattgctgaa gaacgtgcga aaaacggcat cactggccct
+      361 tgctatgtgg gtaaagatac tcacgccctg tccgaacctg cattcatttc cgttctggaa
+      421 gtgctggcag cgaacggcgt tgatgtcatt gtgcaggaaa acaatggctt caccccgacg
+      481 cctgccgttt ccaatgccat cctggttcac aataaaaaag gtggcccgct ggcagacggt
+      541 atcgtgatta caccgtccca taacccgccg gaagatggtg gaatcaaata caatccgcca
+      601 aatggtggcc cggctgatac caacgtcact aaagtggtgg aagacagggc caacgcactg
+      661 ctggccgatg gcctgaaagg cgtgaagcgt atctccctcg acgaagcgat ggcatccggt
+      721 catgtgaaag agcaggatct ggtgcagccg ttcgtggaag gtctggccga tatcgttgat
+      781 atggccgcga ttcagaaagc gggcctgacg ctgggcgttg atccgctggg cggttccggt
+      841 atcgaatact ggaagcgtat tggcgagtat tacaacctca acctgactat cgttaacgat
+      901 caggtcgatc aaaccttccg ctttatgcac cttgataaag acggcgcgat ccgtatggac
+      961 tgctcctccg agtgtgcgat ggcgggcctg ctggcactgc gtgataagtt cgatctggcg
+     1021 tttgctaacg acccggatta tgaccgtcac ggtatcgtca ctccggcagg tttgatgaat
+     1081 ccgaaccact acctggcggt ggcaatcaat tacctgttcc agcatcgtcc gcagtggggc
+     1141 aaagatgttg ccgtcggtaa aacgctggtt tcatctgcga tgatcgaccg tgtggtcaac
+     1201 gacttgggcc gtaaactggt agaagtcccg gtaggtttca aatggtttgt cgatggtctg
+     1261 ttcgacggca gcttcggctt tggcggcgaa gagagtgcag gggcttcctt cctgcgtttc
+     1321 gacggcacgc cgtggtccac cgacaaagac ggcatcatca tgtgtctgct ggcggcggaa
+     1381 atcaccgctg tcaccggtaa gaacccgcag gaacactaca acgaactggc aaaacgcttt
+     1441 ggtgcgccga gctacaaccg tttgcaggca gctgcgactt ccgcacaaaa agcggcgctg
+     1501 tctaagctgt ctccggaaat ggtgagcgcc agcaccctgg caggtgaccc gatcaccgcg
+     1561 cgcctgactg ctgctccggg caacggtgct tctattggcg gtctgaaagt gatgactgac
+     1621 aacggctggt tcgccgcgcg tccgtcaggc acggaagacg catataagat ctactgcgaa
+     1681 agcttccttg gtgaagaaca tcgcaagcag attgagaaag aagcggttga gattgttagc
+     1741 gaagttctga aaaacgcgta aacacattta ataaaaaaag ggcggtcgca agatcgccct
+     1801 tttttacgta tgacaaacac agaattgcct gatgcgctac gcttatcagg cctacgagga
+     1861 tggtgcaata tattgaattt aagcgatttt gtaggccgga taaggcgttc acgccgcatc
+     1921 cggcaaaaac aacgaacact ttgtcaacaa actgagtagc tcaaggaaat cccaatgaag
+     1981 accaacagga gtctggtcgt catagtgtca ctaattaccg ccacattact gctgactgca
+     2041 tgcgcccaac ctgaacaatc atcattagct ggcgactggt tactgacccc taaagataaa
+     2101 accagaggat taacgggtag cattgcggta aatattgcac ctttccggtg taagacaaat
+     2161 tgccgtggtg ataacttacc tgataatacc cgccgctggc agttgtcagg cgggaacgaa
+     2221 aaagaactta cttatcttca taaatatgtc agcacaagaa aggtcggttt aaatcccggt
+     2281 tggcaatgct acacctcatt ttttatgcgg gtttgccagg gcaagcccgg cactcgaccg
+     2341 atagtcaatg aggattatgt cattgatact gcatttccca gagttcagta agcgaaataa
+     2401 cttttcttgt tcttgcttct tcactttgta cccataagaa agggtagaac gtgaaggctt
+     2461 ccgttgccga taattttatt acgtcttctc gccattgctg ccatcgtaca ttttcataga
+     2521 aggtatctaa atcaccggat aatgcccact gaagaaactc agaatatcca acttccagac
+     2581 tttcccaatt cagcgtatct ggcgcaaaat aataaacgca gccagtatct tccccaagat
+     2641 cgccaccatt aagagcaaaa attacccctg cgacatcgtc agcgatgggt aaagcccgca
+     2701 cgcctgcgaa ttcagggcgt tgtgtccaac ttactggatc tcgtggcaac cgggggtgac
+     2761 cagatcctgc tatgcgtaac taaccattat caatcagcag acctccggag ccatagacaa
+     2821 gcgcacccat cggtgatttt gttgtcacct gtaattgata aagtgcggtt tcggctaaat
+     2881 ctttattaac cggtaagagt tcggtatggt ttgtggcgtc ttttaaccag ttctggatta
+     2941 ttggccaggc tgaatcttca gtatttacta actgattcat ttcacgcatc gctacttgct
+     3001 ccttgtgtgc tacggtgtca tttatgatga ggaattgtat ggaacatttt ttaaatatta
+     3061 agttccttat atttgaataa aaaatgactt tatccataca ttgccacttt tttcaaagca
+     3121 taaaccgata cccaataccg gtttcagtaa taaaatggcg aggccgggcc ggatcc
+//
+LOCUS       ECOMDHA                 2470 bp    DNA     linear   BCT 25-JAN-1994
+DEFINITION  E. coli mdh gene encoding malate dehydrogenase, complete cds.
+ACCESSION   M24777
+VERSION     M24777.1
+KEYWORDS    mdh gene; malate dehydrogenase.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 2470)
+  AUTHORS   Vogel,R.F., Entian,K.D. and Mecke,D.
+  TITLE     Cloning and sequence of the mdh structural gene of Escherichia coli
+            coding for malate dehydrogenase
+  JOURNAL   Arch. Microbiol. 149 (1), 36-42 (1987)
+   PUBMED   3322223
+FEATURES             Location/Qualifiers
+     source          1..2470
+                     /organism="Escherichia coli"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:562"
+     gene            644..1585
+                     /gene="mdh"
+     CDS             644..1585
+                     /gene="mdh"
+                     /EC_number="1.1.1.37"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="malate dehydrogenase"
+                     /protein_id="AAA16107.1"
+                     /translation="MKVAVLGAAGGIGQALALLLKTQLPSGSELSLYDIAPVTPGVAVD
+                     LSHIPTAVKIKGFSGEDATPALEGRDVVLISAGVRRKPGMDRSDLFNVNAGIVKNLVQQ
+                     VAKTCPKACIGNITNPVNTTVAIAAEVLKKAGVYDKNKLFGVTTLDIIRSNTFVAELKG
+                     KQPGEVEVPVIGGHSGVTILPLLSQVPGVSFTEQEVADLTKRIQNAGTEVVEAKAGGGS
+                     ATLSMGQAAARFGLSLVRALQGEQGVVECAYVEGDGQYARFFSQPLLLGKNGVEERKSI
+                     GTLSAFEQNALEGMLDTLKKDIAWAKSSLISN"
+ORIGIN
+        1 cagctggcag gcagtaaacc atttccattt tggcattgcg tgtacgtaca gcaccaaact
+       61 tggtcaacat ccgcgagact ttagactgat taatattgtc aaagccttgc tcctgcaacg
+      121 aagcgacgat ttcgccctgg gagctaaatt tctcttcttt aagtaatgct ttaaatgctt
+      181 taactagttc ttcttgctta gccgagcttc gcataagtca cccgatatgg tggttgatac
+      241 aacattattg tgcatacaga tgaattttta tgcaaacagt cagccctgaa gaaggctgaa
+      301 ataatgttat gaaagagcgg gattttatca aatttcgtta ttgagaaaca tgcctgctca
+      361 cggcatgcaa attctgctta aaagtaaatt aattgttatc aaattgatgt tgttttggct
+      421 gaacggtagg gtatatgtca ccacctgttg gaatgttgcg ctaatgcata agcgactgtt
+      481 aattacgtaa gttaggttcc tgattacggc aattaaatgc ataaacgcta aattgcgtga
+      541 ctacacattc ttgagatgtg gtcattgtaa aggcaatttt gtggattaag gtcgcggcag
+      601 cggagcaaca tatcttagtt tatcaatata ataaggattt aggatgaaag tcgcagtcct
+      661 cggcgctgct ggcggtattg gccaggcgct tgcactactg ttaaaaaccc aactgccttc
+      721 aggttcagaa ctctctctgt atgatatcgc tccagtgact cccggtgtgg ctgtcgatct
+      781 gagccatatc cctactgctg tgaaaatcaa aggtttttct ggtgaagatg cgactccggc
+      841 gctggaaggc cgagatgtcg ttcttatctc tgcaggcgta cggcgtaaac cgggtatgga
+      901 tcgttccgac ctgtttaacg ttaacgccgg catcgtgaaa aacctggtac agcaagttgc
+      961 gaaaacctgc ccgaaagcgt gcattggtaa tatcactaac ccggttaaca ccacagttgc
+     1021 aattgctgct gaagtgctga aaaaagccgg tgtttatgac aaaaacaaac tgttcggcgt
+     1081 taccacgctg gatatcattc gttccaacac ctttgttgcg gaactgaaag gcaaacagcc
+     1141 aggcgaagtt gaagtgccgg ttattggcgg tcactctggt gttaccattc tgccgctgct
+     1201 gtcacaggtt cctggcgtta gttttaccga gcaggaagtg gctgatctga ccaaacgcat
+     1261 ccagaacgcg ggtactgaag tggttgaagc gaaggccggt ggcgggtctg caaccctgtc
+     1321 tatgggccag gcagctgcac gttttggtct gtctctggtt cgtgcactgc agggcgaaca
+     1381 aggcgttgtc gaatgtgcct acgttgaagg cgacggtcag tacgcccgtt tcttctctca
+     1441 accgctgctg ctgggtaaaa acggcgtgga agagcgtaaa tctatcggta ccctgagcgc
+     1501 atttgaacag aacgcgctgg aaggtatgct ggatacgctg aagaaagata tcgcctgggc
+     1561 gaagagttcg ttaataagta attgattaag cggataataa aaaaccggag cacagactcc
+     1621 ggttttttgt tttgagcgca cgtcttaatt ggttgccgga tattcctgaa tggtgacctg
+     1681 cagcgttaac tgcttatcat cacgcatcac tactacaggg atcaccgaac cagggcgaat
+     1741 ttccgccacc tgatccatcg tctccagagc agagatggcc ggtttgttat cctccgaaat
+     1801 aatcagatcg ttgacctgaa tacccgcatt cgccgccggg ccgtcaggtg acacttcatt
+     1861 aaccacgatc ccttgcagtt gatctatacc accgccctgc gcgtgcagtg gtgcgatctc
+     1921 acgtccgccg ataccaatgt agccgcggat cacggcacca tcgcggatca gcttatccat
+     1981 aattttggtt gctaactgga aaggaatcgc aaagccgata ccttccggcg tttccgatcg
+     2041 ttactcttat caaacgacag cgtattaatg cccatcagtt cgcccagcga gttcaccagc
+     2101 gcgccgccag agttaccgtg gttaatggaa gcatcggttt ggaggaagtt ttgccgcccg
+     2161 gtcgggttca gaccgattcg accgtggcac taataatccc ctgggtaatg gtctgcccga
+     2221 ggttgtacgg gttaccgatc gccagtacta cgtcgccatg tgcggtacgg acgtgcatta
+     2281 attggaatgg taggtaaacc gccagtggca ttaattttaa gtaccgccag atcggttaga
+     2341 gagtcagatc ccaccagcaa tcgaacaaat acacgtccat cctgtaaggc gacgatgatc
+     2401 tgatcggcgt cgttgatgac gtgtttattg gtgatgatat aaccgcgtga tccatgatta
+     2461 caccggatcc
+//
+LOCUS       AJ629672                 542 bp    DNA     linear   BCT 26-JUL-2016
+DEFINITION  Escherichia coli partial icd gene for isocitrate dehydrogenase,
+            strain FH356.
+ACCESSION   AJ629672
+VERSION     AJ629672.1
+KEYWORDS    icd gene; isocitrate dehydrogenase.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Beutin,L., Kaulfuss,S., Herold,S., Oswald,E. and Schmidt,H.
+  TITLE     Genetic analysis of enteropathogenic and enterohemorrhagic
+            Escherichia coli serogroup O103 strains by molecular typing of
+            virulence and housekeeping genes and pulsed-field gel
+            electrophoresis
+  JOURNAL   J. Clin. Microbiol. 43 (4), 1552-1563 (2005)
+   PUBMED   15814965
+  REMARK    Erratum:[J Clin Microbiol. 2006 Feb;44(2):679]
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Schmidt,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-FEB-2004) Schmidt H., Institute of Medical
+            Microbiology, Technical University of Dresden, Fetscherstrasse 74,
+            D-01307 Dresden, GERMANY
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="FH356"
+                     /serotype="0103:H2"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:562"
+                     /country="Canada"
+     gene            <1..>542
+                     /gene="icd"
+     CDS             <1..>542
+                     /gene="icd"
+                     /codon_start=1
+                     /allele="1"
+                     /transl_table=11
+                     /product="isocitrate dehydrogenase"
+                     /protein_id="CAF33659.1"
+                     /db_xref="GOA:Q65BP6"
+                     /db_xref="InterPro:IPR001804"
+                     /db_xref="InterPro:IPR004439"
+                     /db_xref="UniProtKB/TrEMBL:Q65BP6"
+                     /translation="VPENPIIPYIEGDGIGVDVTPAMLKVVDAAVEKAYKGERKISWME
+                     IYTGEKSTQVYGQDVWLPAETLDLIREYRVAIKGPLTTPVGGGIRSLNVALRQELDLYI
+                     CLRPVRYYQGTPSPVKHPELTDMVIFRENSEDIYAGIEWKADSADAEKVIKFLREEMGV
+                     KKIRFPEHCGIGIKPCS"
+ORIGIN
+        1 gttcctgaaa atccgattat cccttacatt gaaggtgatg gaatcggtgt agatgtaacc
+       61 ccagccatgc tgaaagtggt cgacgctgca gtcgagaaag cctataaagg cgagcgtaaa
+      121 atctcctgga tggaaattta caccggtgaa aaatccacac aggtttatgg tcaggatgtc
+      181 tggctgcctg ctgaaaccct tgatctgatt cgtgaatatc gcgttgctat taaaggtccg
+      241 ctgaccactc ctgttggtgg cggtattcgc tctctgaacg ttgccctgcg ccaggaactg
+      301 gatctctaca tctgcctgcg tccggtacgt tactatcaag gcactccaag cccggttaaa
+      361 caccctgaac tgaccgatat ggttatcttc cgtgaaaact cggaagacat ttatgcgggt
+      421 atcgaatgga aagcagactc tgccgacgcc gagaaagtga ttaaattcct gcgtgaagag
+      481 atgggcgtga agaaaattcg cttcccggaa cattgcggta tcggtatcaa gccgtgttct
+      541 ga
+//
+LOCUS       MH561286                 469 bp    DNA     linear   BCT 30-JUL-2018
+DEFINITION  Escherichia coli strain EGE 4947319-103 fumarate hydratase (fumC)
+            gene, partial cds.
+ACCESSION   MH561286
+VERSION     MH561286.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 469)
+  AUTHORS   Bozcal,E., Eldem,V., Aydemir,S. and Skurnik,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUN-2018) Biology, Faculty of Science-Istanbul
+            University, Fatih- Vezneciler, ISTANBUL 34134, Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="EGE 4947319-103"
+                     /isolation_source="blood"
+                     /culture_collection="EGE:4947319-103"
+                     /db_xref="taxon:562"
+                     /country="Turkey"
+                     /lat_lon="38.456241 N 27.20855 E"
+                     /collection_date="26-Oct-2016"
+                     /collected_by="S. Aydemir"
+     gene            <1..>469
+                     /gene="fumC"
+     CDS             <1..>469
+                     /gene="fumC"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="fumarate hydratase"
+                     /protein_id="AXF92459.1"
+                     /translation="SAIRQAADEVLAGQHDDEFPLAIWQTGSGTQSNMNMNEVLANRAS
+                     ELLGGVRGMERKVHPNDDVNKSQSSNDVFPTAMHVAALLALRKQLIPQLKTLTQTLSEK
+                     SRAFADIVKIGRTHLQDATPLTLGQEISGWVAMLEHNLKHIEYSLPHVAELA"
+ORIGIN
+        1 cgagcgccat tcggcaggcg gcggatgaag tactggcagg acagcatgac gacgaattcc
+       61 cgctggctat ctggcagacc ggctccggca cgcaaagtaa catgaatatg aacgaagtgc
+      121 tggctaaccg ggccagtgaa ttactcggtg gcgtgcgcgg gatggaacgt aaagttcacc
+      181 ctaacgacga cgtgaacaaa agccaaagtt ccaacgatgt ctttccgacg gcgatgcacg
+      241 ttgcggcact actggcgctg cgcaagcaac tcattccaca acttaaaacc ctgacccaga
+      301 cgctgagtga aaaatcccgc gcatttgctg atatcgtcaa aatcggtcgt acccacttgc
+      361 aggacgccac gccgttaacg ctggggcagg agatttccgg ctgggtagcg atgctggagc
+      421 ataatctcaa acatatcgaa tacagcctgc ctcacgtagc ggaactggc
+//
+LOCUS       X68025                  2441 bp    DNA     linear   BCT 14-NOV-2006
+DEFINITION  E.coli tkt gene for transketolase.
+ACCESSION   X68025
+VERSION     X68025.1
+KEYWORDS    tkt gene; transketolase.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 2441)
+  AUTHORS   Sprenger,G.A.
+  TITLE     Nucleotide sequence of the Escherichia coli K-12 transketolase (tkt)
+            gene
+  JOURNAL   Biochim. Biophys. Acta 1216 (2), 307-310 (1993)
+   PUBMED   8241274
+REFERENCE   2  (bases 1 to 2441)
+  AUTHORS   Sprenger,G.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-AUG-1992) G.A. Sprenger, Inst. fuer Biotechnologie 1,
+            Forschungszentrum Juelich, P.O. Box 1913, 5170 Juelich, FRG
+  REMARK    revised by [3]
+REFERENCE   3  (bases 1 to 2441)
+  AUTHORS   Sprenger,G.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-1993) G.A. Sprenger, Inst. fuer Biotechnologie 1,
+            Forschungszentrum Juelich, P.O. Box 1913, 5170 Juelich, FRG
+COMMENT     On Jul 27, 1993 this sequence version replaced gi:43082.
+FEATURES             Location/Qualifiers
+     source          1..2441
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /db_xref="taxon:562"
+                     /map="63.5 min"
+     gene            154..2148
+                     /gene="tkt"
+     CDS             154..2148
+                     /gene="tkt"
+                     /EC_number="2.2.1.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transketolase"
+                     /protein_id="CAA48166.1"
+                     /db_xref="GOA:P27302"
+                     /db_xref="InterPro:IPR005474"
+                     /db_xref="InterPro:IPR005475"
+                     /db_xref="InterPro:IPR005476"
+                     /db_xref="InterPro:IPR005478"
+                     /db_xref="InterPro:IPR009014"
+                     /db_xref="InterPro:IPR015941"
+                     /db_xref="InterPro:IPR020826"
+                     /db_xref="PDB:1QGD"
+                     /db_xref="PDB:2R5N"
+                     /db_xref="PDB:2R8O"
+                     /db_xref="PDB:2R8P"
+                     /db_xref="UniProtKB/Swiss-Prot:P27302"
+                     /translation="MSSRKELANAIRALSMDAVQKAKSGHPGAPMGMADIAEVLWRDFL
+                     KHNPQNPSWADRDRFVLSNGHGSMLIYSLLHLTGYDLPMEELKNFRQLHSKTPGHPESG
+                     VTPLGVETTTGPLGQGIANAVGMAIAEKTLAAQFNRPGHDIVDHYTYAFMGDGCMMEGI
+                     SHEVCSLAGTLKLGKLIAFYDDNGISIDGHVEGWFTDDTAMRFEAYGWHVIRDIDGHDA
+                     ASIKRAVEEARAVTDKPSLLMCKTIIGFGSPNKAGTHDSHGAPLGDAEIALTREQLGWK
+                     YAPFEIPSEIYAQWDAKEAGQAKESAWNEKFAAYAKAYPQEAAEFTRRMKGEMPSDFDA
+                     KAKEFIAKLQANPAKIASRKASQNAIEAFGPLLPEFLGGSADLAPSNLTLWSGSKAINE
+                     DAAGNYIHYGVREFGMTAIANGISLHGGFLPYTSTFLMFVEYARNAVRMAALMKQRQVM
+                     VYTHDSIGLGEDGPTHQPVEQVASLRVTPNMSTWRPCDQVESAVAWKYGVERQDGPTAL
+                     ILSRQNLAQQERTEEQLANIARGGYVLKDCAGQPELIFIATGSEVELAVAAYEKLTAEG
+                     VKARVVSMSSTDAFDKQDAAYRESVLPKAVTARVAVEAGIADYWYKYVGLNGAIVGMTT
+                     FGESAPAELLFEEFGFTVDNVVAKAKELL"
+     old_sequence    2043
+                     /gene="tkt"
+                     /citation=[2]
+                     /replace="t"
+     old_sequence    2052..2055
+                     /gene="tkt"
+                     /citation=[2]
+                     /replace="tgaa"
+     old_sequence    2170
+                     /citation=[2]
+                     /replace="a"
+ORIGIN
+        1 gatccagaga tttctgaagc ggcaaaagga tgttccatgt acatgacgcg cggcttgcgg
+       61 taaattgttg gcaaattttt cccggcgtag cccaaaacgc gctgtcgtca agtcgttaag
+      121 ggcgtgccct tcatcatccg atctggagtc aaaatgtcct cacgtaaaga gcttgccaat
+      181 gctattcgtg cgctgagcat ggacgcagta cagaaagcca aatccggtca cccgggggcc
+      241 cctatgggta tggctgacat tgccgaagtc ctgtggcgtg atttcctgaa acacaacccg
+      301 cagaatccgt cctgggctga ccgtgaccgc ttcgtgctgt ccaacggcca cggctccatg
+      361 ctgatctaca gcctgctgca cctcaccggt tacgatctgc cgatggaaga actgaaaaac
+      421 ttccgtcagc tgcactctaa aactccgggt cacccggaaa gtggggttac accgctgggt
+      481 gtggaaacca ccaccggtcc gctgggtcag ggtattgcca acgcagtcgg tatggcgatt
+      541 gcagaaaaaa cgctggcggc gcagtttaac cgtccgggcc acgacattgt cgaccactac
+      601 acctacgcct tcatgggcga cggctgcatg atggaaggca tctcccacga agtttgctct
+      661 ctggcgggta cgctgaagct gggtaaactg attgcattct acgatgacaa cggtatttct
+      721 atcgatggtc acgttgaagg ctggttcacc gacgacaccg caatgcgttt cgaagcttac
+      781 ggctggcacg ttattcgcga catcgacggt catgacgcgg catctatcaa acgcgcagta
+      841 gaagaagcgc gcgcagtgac tgacaaacct tccctgctga tgtgcaaaac catcatcggt
+      901 ttcggttccc cgaacaaagc cggtacccac gactcccacg gtgcgccgct gggcgacgct
+      961 gaaattgccc tgacccgcga acaactgggc tggaaatatg cgccgttcga aatcccgtct
+     1021 gaaatctatg ctcagtggga tgcgaaagaa gcaggccagg cgaaagaatc cgcatggaac
+     1081 gagaaattcg ctgcttacgc gaaagcttat ccgcaggaag ccgctgaatt tacccgccgt
+     1141 atgaaaggcg aaatgccgtc tgacttcgac gctaaagcga aagagttcat cgctaaactg
+     1201 caggctaatc cggcgaaaat cgccagccgt aaagcgtctc agaatgctat cgaagcgttc
+     1261 ggtccgctgt tgccggaatt cctcggcggt tctgctgacc tggcgccgtc taacctgacc
+     1321 ctgtggtctg gttctaaagc aatcaacgaa gatgctgcgg gtaactacat ccactacggt
+     1381 gttcgcgagt tcggtatgac cgcgattgct aacggtatct ccctgcacgg tggcttcctg
+     1441 ccgtacacct ccaccttcct gatgttcgtg gaatacgcac gtaacgccgt acgtatggct
+     1501 gcgctgatga aacagcgtca ggtgatggtt tacacccacg actccatcgg tctgggcgaa
+     1561 gacgggccga ctcaccagcc ggttgagcag gtcgcttctc tgcgcgtaac cccgaacatg
+     1621 tctacatggc gtccgtgtga ccaggttgaa tccgcggtcg cgtggaaata cggtgttgag
+     1681 cgtcaggacg gcccgaccgc actgatcctc tcccgtcaga acctggcgca gcaggaacga
+     1741 actgaagagc aactggcaaa catcgcgcgc ggtggttatg tgctgaaaga ctgcgccggt
+     1801 cagccggaac tgattttcat cgctaccggt tcagaagttg aactggctgt tgctgcctac
+     1861 gaaaaactga ctgccgaagg cgtgaaagcg cgcgtggtgt ccatgtcgtc taccgacgca
+     1921 tttgacaagc aggatgctgc ttaccgtgaa tccgtactgc cgaaagcggt tactgcacgc
+     1981 gttgctgtag aagcgggtat tgctgactac tggtacaagt atgttggcct gaacggtgct
+     2041 atcgtcggta tgaccacctt cggtgaatct gctccggcag agctgctgtt tgaagagttc
+     2101 ggcttcactg ttgataacgt tgttgcgaaa gcaaaagaac tgctgtaatt agcatttcgg
+     2161 gtaaaaaagg tcgcttcggc gacctttttt attaccttga taatgtccgt ttgcggacca
+     2221 agcaatagat aaggcgtgtt gtagatcaca aatatttata tgcaataaat atcaattatg
+     2281 taatatgcat cacgatatgc gtattgacat ttgttgttat atctataact caatgttata
+     2341 taagaaatta ataattcact gttttcaaaa caaccggttt ccctgctcaa ttgctttcat
+     2401 taaaccgcac gagtatttta tttttaccgc cggacggtac c
+//
+LOCUS       Z14144                  1579 bp    DNA     linear   INV 14-NOV-2006
+DEFINITION  D.hydei gene for glyceraldehyde-3-phosphate dehydrogenase.
+ACCESSION   Z14144
+VERSION     Z14144.1
+KEYWORDS    glyceraldehyde-3-phosphate dehydrogenase.
+SOURCE      Drosophila hydei
+  ORGANISM  Drosophila hydei
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila.
+REFERENCE   1  (bases 1 to 1579)
+  AUTHORS   Wojtas,K.M., von Kalm,L., Weaver,J.R. and Sullivan,D.T.
+  TITLE     The evolution of duplicate glyceraldehyde-3-phosphate dehydrogenase
+            genes in Drosophila
+  JOURNAL   Genetics 132 (3), 789-797 (1992)
+   PUBMED   1468631
+REFERENCE   2  (bases 1 to 1579)
+  AUTHORS   Sullivan,D.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-1992) David T Sullivan, Biology, Syracuse
+            University, 130 College Pl., Syracuse, N.Y., 13244, U.S.A
+COMMENT     On May 5, 2005 this sequence version replaced S52014.1.
+FEATURES             Location/Qualifiers
+     source          1..1579
+                     /organism="Drosophila hydei"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7224"
+                     /clone_lib="EMBL-4"
+                     /dev_stage="adult"
+     CDS             join(347..433,503..1414)
+                     /codon_start=1
+                     /product="glyceraldehyde-3-phosphate dehydrogenase"
+                     /protein_id="CAA78514.1"
+                     /db_xref="FLYBASE:FBgn0012366"
+                     /db_xref="GOA:Q01597"
+                     /db_xref="InterPro:IPR006424"
+                     /db_xref="InterPro:IPR016040"
+                     /db_xref="InterPro:IPR020828"
+                     /db_xref="InterPro:IPR020829"
+                     /db_xref="InterPro:IPR020830"
+                     /db_xref="InterPro:IPR020831"
+                     /db_xref="UniProtKB/Swiss-Prot:Q01597"
+                     /translation="MSKIGINGFGRIGRLVLRAAVDKGASVVAVNDPFIDVNYMVYLFK
+                     FDSTHGRFKGTVSAEGGFLVVNGQKITVFSERDPANINWASAGAEYVVESTGVFTTTEK
+                     ASTHLKGGAKKVVISAPSADAPMFVCGVNLDAYSPDMKVVSNASCTTNCLAPLAKVIND
+                     NFEIVEVLMTTVHATTATQKTVDGPSGKLWRDGRGACQNIIPASTGAAKAVGKVIPALN
+                     GKLTGMAFRVPTPNVSVVDLTVRLGKGASYDEIKAKVQEAANGPLKGILGYTDEEVVST
+                     DFLSDTHSSVFEPKAGISLNDKFVKLISWYDNEFGYSNRVIDLIKYMQSKD"
+     exon            347..433
+                     /number=1
+     intron          434..502
+                     /number=1
+     exon            503..1414
+                     /number=2
+ORIGIN
+        1 acatttttaa ataaaaaaca attaattgcg cgcttttggt tcacatgtgt gtgtatgctc
+       61 gaagagttgc tattcaaata tattacagtc acgtgaagtt ggtggtgtac agatgcgcgt
+      121 gcgtcacata gcattcagct ttcaaatgta ctcgttttgc tcatacttgc gttgtggggt
+      181 gggcgtgacg taaacgtcct tcatttgact ttgaactcag ccaaacgcga acgctctatc
+      241 tgaagactat ttagtcagag cagttgcagt tgattcctga cgggtgaact gagcgaaagt
+      301 aaaagtgtga tccaggaaag taaaaaaaaa aaagaaaaaa ttaatcatgt cgaagattgg
+      361 tattaatgga tttggccgca ttggtcgtct ggtgctccgt gccgccgtcg acaaaggtgc
+      421 cagcgtcgtg gccgtaagta aagcagctgc aatgtgattt cgaagaaaat gtaaaaattg
+      481 cgtggatatg tgtaatttgc aggttaacga tcccttcatc gatgtgaact acatggtcta
+      541 cttgttcaag ttcgattcta cccacggccg tttcaagggc accgtttccg ctgagggcgg
+      601 cttcctggtc gtcaatggcc agaagatcac cgtgttcagc gaacgcgacc ccgctaacat
+      661 caactgggcc agcgctggcg ctgagtacgt ggttgagtct accggtgtct tcaccaccac
+      721 cgagaaggcc tccactcact tgaagggcgg tgccaagaag gttgtcattt cggcaccatc
+      781 cgctgatgcg cccatgttcg tgtgcggcgt gaacttggat gcgtacagcc ccgacatgaa
+      841 ggtcgtgtcg aacgcttctt gcaccaccaa ctgcttggcc ccattggcta aggttatcaa
+      901 cgataacttc gagattgtgg aggtcttgat gaccactgtg catgccacca cagccaccca
+      961 gaagaccgtc gatggcccct ccggcaagtt gtggcgtgat ggccgtggtg cttgccaaaa
+     1021 catcattcca gcatccactg gtgccgccaa ggccgtcggc aaagtcattc cagctctgaa
+     1081 tggaaaactg actggcatgg ctttccgtgt gcccacacca aatgtgtccg ttgtcgattt
+     1141 gactgtccgc ttgggcaagg gcgccagcta cgatgagatt aaggccaagg tacaagaggc
+     1201 tgccaacggt ccattgaagg gcattctggg ctacaccgat gaggaggttg tctccactga
+     1261 cttccttagc gatactcact cgtctgtgtt cgagcccaag gccggcatct cgctcaacga
+     1321 caagttcgtg aagctgattt cctggtacga caacgagttc ggctactcca accgtgtcat
+     1381 tgacttgatc aagtacatgc agagcaagga ttaaatcaac aatagcagat tcagctaaaa
+     1441 caatgttaac ttctcaatac gcacaaacag gaggtgtagc atttacataa ctatagatga
+     1501 gaaggctccg atattcgccc acataaacac acagctaccc aataaataca catacaaata
+     1561 cacacacaca cacgcatat
+//
+LOCUS       XM_023313082            2182 bp    mRNA    linear   INV 18-DEC-2017
+DEFINITION  PREDICTED: Drosophila hydei glucose-6-phosphate isomerase
+            (LOC111598043), transcript variant X2, mRNA.
+ACCESSION   XM_023313082
+VERSION     XM_023313082.1
+DBLINK      BioProject: PRJNA422293
+KEYWORDS    RefSeq.
+SOURCE      Drosophila hydei
+  ORGANISM  Drosophila hydei
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila hydei Annotation Release
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019378832.1) annotated using gene prediction method: Gnomon.
+            Also see:
+            Documentation of NCBI's Annotation Process
+            100
+            pipeline
+FEATURES             Location/Qualifiers
+     source          1..2182
+                     /organism="Drosophila hydei"
+                     /mol_type="mRNA"
+                     /strain="15085-1641.55"
+                     /db_xref="taxon:7224"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="whole body"
+                     /dev_stage="adult"
+     gene            1..2182
+                     /gene="LOC111598043"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 541 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 4 samples with support for all annotated introns"
+                     /db_xref="GeneID:111598043"
+     CDS             327..2003
+                     /gene="LOC111598043"
+                     /codon_start=1
+                     /product="glucose-6-phosphate isomerase"
+                     /protein_id="XP_023168850.1"
+                     /db_xref="GeneID:111598043"
+                     /translation="MAGTLPPLNQEPIFKKLQEFYDAHNKDLVIKNLFINDPKRFSKYS
+                     LRLSTPNDGEILLDYSKNRVNDEVWPLLLELAKARRIEVARDAMFSGQHINITENRAVL
+                     HTALRNRGTEPVLLDGKDVMSDVRAELAHMKEFTNKVISGVWRGCTGKQITDVVNIGIG
+                     GSDLGPLMVTEALKPYGKGLHSHFVSNIDGTHMAEVLKKVSYETTLFIIASKTFTTQET
+                     ITNATSAKTWLLEHAKDEDSVAKHFVALSTNKEKVTAFGIDSANMFGFWDWVGGRYSLW
+                     SAIGLSICLSIGFENFEQLLEGAYYMDNHFRTAPLAKNAPVILALLGVWYSNFYNAETH
+                     ALLPYDQYMHRFAAYFQQGDMESNGKFVSKSGKKVSYNTGPIVWGEPGTNGQHAFYQLI
+                     HQGTRLIPCDFIAPAQTHNPIAGGKHHKILLSNFLAQTEALMMGKTADEAKNELTTAGL
+                     CGNELENLLPHKVFLGNRPTNSIVVKKVSPFTLGALIALYEHKIFVQGIIWDINSFDQW
+                     GVELGKQLAKAIEPELDNCEEISSHDGSTNGLINFIKANWK"
+ORIGIN
+        1 aatgtctttt tcgatacttt tgatatatgc taaaataata aaatttaaat tttaacagtt
+       61 taagtttctc aaatacaatt gcctttggta ccgagatata tttgcagtgt ggcaacatcg
+      121 cgacttgttt ttcatttgac attgaagttg cacacatttc cagctggcgg gtgggtgaaa
+      181 aggactacca ttgcggtacc atatcggcaa ttagtataac aacggcgctt ttgtggagct
+      241 acgctgtggg ccgtgctgcc caataccgat tatcaaagaa tttgtgcagt agtcaaatcg
+      301 acgcagtttt aatcacattt aagaaaatgg ctggtacact gcctccgctt aatcaagagc
+      361 caattttcaa gaaactccag gagttctatg acgcccacaa caaggatctg gtcattaaga
+      421 atctgttcat caacgatcct aagcgcttct ccaaatacag tttacgactg tcaacgccca
+      481 acgatggtga aattctgttg gactactcta agaatcgtgt gaacgatgaa gtgtggcctt
+      541 tgctattgga attggcgaag gcgcgacgca ttgaggtggc tcgtgatgcc atgttcagcg
+      601 ggcagcacat caacattacc gaaaatcgtg ctgttttgca tacggcgttg cgtaatcgcg
+      661 gcacggaacc tgtgctgctt gatggaaagg atgtgatgtc tgatgtacgc gctgagttgg
+      721 cgcatatgaa ggagtttacc aacaaggtca tctctggcgt ttggcgtggc tgcaccggca
+      781 aacaaatcac cgatgtggtt aacattggca tcggtggctc cgatttgggt ccactgatgg
+      841 ttaccgaagc gctgaaacct tatggcaagg gcttgcattc gcatttcgtc tcgaacatcg
+      901 atggcaccca catggctgag gtactgaaaa aggtcagcta cgagacaacg ctgttcatca
+      961 ttgcgtccaa gacctttaca acacaagaaa cgatcacaaa tgccacttcg gctaagactt
+     1021 ggttgctcga gcatgccaag gatgaggatt cagtagctaa acattttgtg gctctgtcca
+     1081 caaacaagga aaaggtgact gcgtttggta tcgacagcgc caacatgttc ggcttctggg
+     1141 attgggtggg cggccgttac tctctctggt ctgccattgg cttgtccatt tgcttgtcca
+     1201 ttggttttga gaactttgaa cagctgctcg agggcgcgta ctatatggat aatcatttcc
+     1261 gcactgcacc gctggcgaaa aatgcacccg ttattctggc tttgcttggc gtttggtatt
+     1321 ccaattttta taatgccgaa acgcacgccc tactgccata cgatcagtat atgcatcgat
+     1381 ttgctgcata tttccaacag ggcgacatgg aaagcaatgg caaatttgtt agcaaatcgg
+     1441 gcaagaaagt tagctataat acgggtccaa ttgtttgggg cgagccaggc acaaatggcc
+     1501 aacatgcctt ctatcagctc atacatcagg gcacgcgttt gattccctgc gattttatcg
+     1561 caccagcaca gacgcacaat cccattgccg gtggtaaaca tcataagata ttgctctcga
+     1621 atttcctggc tcaaacggag gccctaatga tgggtaagac cgccgatgag gccaaaaatg
+     1681 agctaaccac ggcgggcctg tgcggcaacg agctggaaaa cttgttgcca cacaaggtgt
+     1741 tccttggcaa ccgcccaacc aactcgattg tggtcaagaa agtatcaccc ttcaccctag
+     1801 gtgcattgat cgccctctat gagcacaaga tctttgtgca aggcatcatt tgggacataa
+     1861 actcgttcga tcagtggggc gtcgagttag gcaaacagtt ggccaaggca attgaaccag
+     1921 agctggacaa ctgcgaggag atctctagcc acgatggctc cacaaatggc ttaatcaatt
+     1981 tcatcaaggc caactggaag taagccacgc gcataccaaa aattgacaat tacgtctttt
+     2041 acttatttat atactcgcgc tacgaaattc tgttctttgg cacaaaattc aaactatact
+     2101 atatttgcat gcatattggg attatataca taaagcattt gtttgcaaat tggcaaaaat
+     2161 tcactatcgg tagttacact at
+//
+LOCUS       XM_023311391            2132 bp    mRNA    linear   INV 18-DEC-2017
+DEFINITION  PREDICTED: Drosophila hydei phosphoglucomutase (LOC111596939), mRNA.
+ACCESSION   XM_023311391
+VERSION     XM_023311391.1
+DBLINK      BioProject: PRJNA422293
+KEYWORDS    RefSeq.
+SOURCE      Drosophila hydei
+  ORGANISM  Drosophila hydei
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila hydei Annotation Release
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019378783.1) annotated using gene prediction method: Gnomon.
+            Also see:
+            Documentation of NCBI's Annotation Process
+            100
+            pipeline
+FEATURES             Location/Qualifiers
+     source          1..2132
+                     /organism="Drosophila hydei"
+                     /mol_type="mRNA"
+                     /strain="15085-1641.55"
+                     /db_xref="taxon:7224"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="whole body"
+                     /dev_stage="adult"
+     gene            1..2132
+                     /gene="LOC111596939"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 24 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 4 samples with support for all annotated introns"
+                     /db_xref="GeneID:111596939"
+     CDS             267..1949
+                     /gene="LOC111596939"
+                     /codon_start=1
+                     /product="phosphoglucomutase"
+                     /protein_id="XP_023167159.1"
+                     /db_xref="GeneID:111596939"
+                     /translation="MSLSVETKLTTTYEGQKPGTSGLRKKVKVFTQPNYTENFVQCILD
+                     ANGAALVGSTLVVGGDGRYYCKEAAELIVRICAGNGVAKLLVGQNGILSTPAVSSLIRH
+                     NKALGGIVLTASHNPGGPENDFGIKFNCENGGPAPDAFTNNIYQLSTGIKAYKLVPALQ
+                     IDISKVGVSNYDIGGKHFVVEVIDSVANYVRHMEEIFDFGKLHDFVSGKSNGKPLRMRI
+                     DSMNGVTGAYVREIFLNRLGATETSVVHTIPLPDFGGLHPDPNLTYAKDLVETVAKGDY
+                     DIGAAFDGDGDRNMIIGSKAFFVTPSDSLAVIAHYLEAIPYFKKNGVQGFARSMPTASA
+                     VDLVGKKLGKEVFEVPTGWKYFGNLMDAGRLCLCGEESFGTGSAHIREKDGIWAVLAWI
+                     SVMEHTGKSIEDILKQHWSTYGRNYFTRYDYEECDLDPCNEMMATMEKNIIAAEFVGKS
+                     FTSGGKTYKVKKADNFSYTDPVDKSLATKQGLRIVFDDGSRIVMRLSGTGSSGATVRLY
+                     IDSYEKENVLGQAGVMLKPLIDIALEISQLPKFTGRNAPTVIT"
+ORIGIN
+        1 ttatttattc gatacaatgt agtttaccga aatgcaatat taacaatacc aaacaaagtg
+       61 tattaatttt aagttaaaac tcgtactaag tcagcatgat agcgcttctt tatatcacta
+      121 cagccgcgtc atacgtttat cagtgcgacg acacagaatc agtagctgag taattttttt
+      181 ttcaacacag agacaaaatt gttggtacta ccactagctc gcccgcagtc agaagttaac
+      241 cagcaactgg aaagctcaac caaagcatgt ctctaagcgt agaaaccaag ctaacaacaa
+      301 cgtacgaagg ccaaaagcca ggcaccagcg gactgcgtaa aaaagtgaaa gtgttcacgc
+      361 agcccaacta tacggaaaac tttgtgcaat gcattctgga tgctaacggc gcagctctgg
+      421 tgggatccac tctggttgta ggaggcgatg gacgttacta ctgcaaggag gcagctgaac
+      481 tcattgttcg aatctgtgca ggcaacggag tggccaagct gctggtgggt cagaatggaa
+      541 tactttcgac gccagccgtc tccagcctaa tacgtcacaa caaagcgttg ggtggtattg
+      601 tgttgactgc gtcgcataat cctggcggtc cggagaacga tttcggcatc aagttcaact
+      661 gtgagaatgg aggtcctgca cccgatgcct tcaccaacaa catttaccag ctctcgactg
+      721 gtataaaagc ctacaaactg gtgcctgccc tgcagattga catctcaaag gtgggcgtca
+      781 gcaattatga cattggcggc aagcattttg ttgtggaggt cattgattct gtagctaatt
+      841 atgtgcgtca catggaggag atctttgact ttggtaaatt gcacgatttt gtcagcggaa
+      901 aatcgaatgg aaagccatta aggatgcgta tagattctat gaatggtgtg actggcgcct
+      961 atgtgcgtga gatctttctg aatcggttgg gtgctacaga aacatcagtg gttcacacca
+     1021 ttccactacc cgactttggc ggactgcatc ctgatccgaa tttgacgtac gctaaggatt
+     1081 tagtagagac tgtggccaaa ggagattatg atattggcgc cgccttcgat ggcgacggcg
+     1141 atcgcaacat gatcattggc agcaaggctt tctttgtaac cccaagcgac tcattggcgg
+     1201 tcatagcaca ctacctcgag gctatcccat atttcaagaa gaatggcgtg cagggctttg
+     1261 cgcgcagcat gcccactgcc tcagccgtag atctagtagg caagaagctg gggaaagagg
+     1321 tatttgaagt acccaccggc tggaaatact ttggcaatct catggatgct ggacgtctct
+     1381 gtctatgtgg tgaggagagt ttcggcaccg gctccgctca catacgagag aaagatggta
+     1441 tttgggcggt gctggcgtgg atttcggtta tggaacacac gggcaagagt atcgaggata
+     1501 ttctaaagca gcattggtcc acctatgggc gcaactactt cacacgctac gattacgagg
+     1561 aatgtgatct ggatccctgc aatgagatga tggccaccat ggagaaaaac atcatagctg
+     1621 ctgaatttgt aggcaagagc tttaccagcg gaggcaagac ttacaaagtc aagaaggcgg
+     1681 acaatttcag ctacacagac cctgttgaca aatccttggc aaccaagcag ggattgcgta
+     1741 ttgtattcga cgatggcagc cgcattgtga tgcgccttag tggtacaggc agctcaggag
+     1801 ctaccgtacg cttgtacatc gactcttatg agaaagagaa tgtgctgggc caggcgggtg
+     1861 tcatgctaaa gccgctaata gatattgcat tggaaatatc gcagcttccg aagtttactg
+     1921 gccgcaatgc gcccactgtc attacataag cgaaagctgc tcaaaataaa ctaacattta
+     1981 gatgttgtcc ccacttcgtt ccggaatttg ttttactaaa atgttttagc ttcaaccaaa
+     2041 gtttaagaaa ttaaaattat tattgataat taaatgttaa aaattgcgca catttgaaca
+     2101 cacaatacaa gtaattaaat tcatattcca tt
+//
+LOCUS       NM_001298874            1289 bp    mRNA    linear   INV 16-AUG-2018
+DEFINITION  Drosophila melanogaster malate dehydrogenase 1, transcript variant B
+            (Mdh1), mRNA.
+ACCESSION   NM_001298874
+VERSION     NM_001298874.1
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 1289)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1289)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1289)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   4  (bases 1 to 1289)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   5  (bases 1 to 1289)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput. Biol. 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   6  (bases 1 to 1289)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A., Sutton,G.G.,
+            Yasuhara,J.C., Wakimoto,B.T., Myers,E.W., Celniker,S.E., Rubin,G.M.
+            and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   7  (bases 1 to 1289)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J., Svirskas,R.,
+            Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E., Rubin,G.M.,
+            Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   8  (bases 1 to 1289)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L., Berman,B.P.,
+            Bettencourt,B.R., Celniker,S.E., de Grey,A.D., Drysdale,R.A.,
+            Harris,N.L., Richter,J., Russo,S., Schroeder,A.J., Shu,S.Q.,
+            Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M., Rubin,G.M. and
+            Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   9  (bases 1 to 1289)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   10  (bases 1 to 1289)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A., Li,J.,
+            Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F., Zaveri,J.S.,
+            Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H., Zhong,F.N.,
+            Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O., Gibbs,R.A.,
+            Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   11  (bases 1 to 1289)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R., Smith,E.,
+            Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   12  (bases 1 to 1289)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   13  (bases 1 to 1289)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   14  (bases 1 to 1289)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15  (bases 1 to 1289)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16  (bases 1 to 1289)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project, Lawrence
+            Berkeley National Laboratory, One #Cyclotron RoadOne Cyclotron Road,
+            MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   17  (bases 1 to 1289)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project, Lawrence
+            Berkeley National Laboratory, One Cyclotron Road, MS 64-121,
+            Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   18  (bases 1 to 1289)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   19  (bases 1 to 1289)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.18
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+            REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+FEATURES             Location/Qualifiers
+     source          1..1289
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..1289
+                     /gene="Mdh1"
+                     /locus_tag="Dmel_CG5362"
+                     /gene_synonym="CG5362; cMdh; CT17038; Dmel\CG5362; Mdh;
+                     MDH; Mdh-1; MDH-1; Mdh2; MdhD; sMdh"
+                     /note="Malate dehydrogenase 1"
+                     /gen_map="2-42 cM"
+                     /map="31E1-31E1"
+                     /db_xref="FLYBASE:FBgn0262782"
+                     /db_xref="GeneID:34414"
+     CDS             116..1129
+                     /gene="Mdh1"
+                     /locus_tag="Dmel_CG5362"
+                     /gene_synonym="CG5362; cMdh; CT17038; Dmel\CG5362; Mdh;
+                     MDH; Mdh-1; MDH-1; Mdh2; MdhD; sMdh"
+                     /EC_number="1.1.1.37"
+                     /note="CG5362 gene product from transcript CG5362-RB;
+                     CG5362-PB; Mdh1-PB; malic DH; cytoplasmic Mdh; cytosolic
+                     malate dehydrogenase; malate dehydrogenase 1"
+                     /codon_start=1
+                     /product="malate dehydrogenase 1, isoform B"
+                     /protein_id="NP_001285803.1"
+                     /db_xref="FLYBASE:FBpp0311560"
+                     /db_xref="GeneID:34414"
+                     /db_xref="FLYBASE:FBgn0262782"
+                     /translation="MAEPIRVVVTGAAGQIAYSLLYMIARGEVFGKDQPIVLHLLDIPP
+                     MVGVLEGVVMELADCALPLLVEVVPTTDPAVGFKDVSAAFLVGAMPRKEGMERKDLLSA
+                     NVKIFRTQGQALDKFAKKDVKVLVVGNPANTNALVCSSYAPSIPRENFSAMTRLDQNRA
+                     TSQIAAKLGVPISAVKNIIIWGNHSSTQYPDAGQAKVTANGTVKSVVDAINDNGYLQGS
+                     FVETVQKRGAAVIAARKMSSAMSAAKAACDHMHDWWNGTAPGQFVSMGVFSDGSYDSPK
+                     DVIFSFPVEIKNKQWKIVSGLTLSDFAKTKLSVTGKELQEEKDEALSVLDSNVSNL"
+ORIGIN
+        1 aaaaagtagt gactggaaaa taattgtgaa aagtaacagg ttcccaattg gcgatcccta
+       61 tttacgtttt tacttgaagt tcgtccgtgg agcgttgcac ctgtgaaatt ctaaaatggc
+      121 tgaaccaatt cgtgttgtgg tgaccggagc cgctggccaa atcgcctact ccctgctgta
+      181 catgattgcc cgcggcgagg tgttcggcaa ggatcagccc atcgtgctgc acctgctcga
+      241 cattccgccc atggttggtg tgctcgaggg cgtggtcatg gaattggccg actgcgctct
+      301 gccgctgctg gtcgaggtgg tgcccaccac cgacccggct gttggattca aggatgtctc
+      361 ggccgctttc ctcgtgggcg ccatgccccg caaggaggga atggagcgaa aggatctgct
+      421 gtccgccaac gtgaagatct tcaggaccca gggccaggct ctggacaagt tcgccaagaa
+      481 ggacgtcaag gtgctggttg tgggcaaccc ggccaatacc aatgccctgg tctgctcctc
+      541 ctatgcgcct tccattccgc gcgaaaattt ctcggctatg actcgcctgg atcagaatcg
+      601 cgccacatcc cagatcgccg ccaaattggg tgtgccaatt tctgctgtta agaacatcat
+      661 tatttggggc aaccactcct ccacccagta tcccgatgct ggacaggcca aggtgaccgc
+      721 caatggtacc gttaagtccg tggtggatgc gatcaacgat aatggctacc tgcagggatc
+      781 cttcgtggaa accgttcaga agcgtggagc cgctgtcatt gcggcccgca aaatgtcatc
+      841 ggccatgtcg gcggcgaagg ccgcttgcga tcacatgcac gactggtgga acggcactgc
+      901 tcccggccag ttcgtctcca tgggtgtctt ctccgacggc agctacgatt cgcccaagga
+      961 tgtgatcttc tcgttccccg tcgagatcaa gaataagcaa tggaaaatcg tctctggcct
+     1021 gaccctcagc gatttcgcta agacaaagtt aagcgttacc ggcaaggagc tgcaggagga
+     1081 gaaggacgag gctctgtccg tgctggactc gaatgtgtcc aacttgtaat gcgatcctta
+     1141 aacgttaatt actaacatca tagttgtgca tttaggaaca aagttcatgg caataaaagt
+     1201 tttgtaaata gctctgaaat ggttttgttt tgtgcaagtt aattgttgct agcgatttga
+     1261 actataagat taaaggctta atggctgat
+//
+LOCUS       NM_001144438            1974 bp    mRNA    linear   INV 16-AUG-2018
+DEFINITION  Drosophila melanogaster isocitrate dehydrogenase, transcript variant
+            K (Idh), mRNA.
+ACCESSION   NM_001144438
+VERSION     NM_001144438.2
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 1974)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1974)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1974)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   4  (bases 1 to 1974)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   5  (bases 1 to 1974)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput. Biol. 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   6  (bases 1 to 1974)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A., Sutton,G.G.,
+            Yasuhara,J.C., Wakimoto,B.T., Myers,E.W., Celniker,S.E., Rubin,G.M.
+            and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   7  (bases 1 to 1974)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J., Svirskas,R.,
+            Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E., Rubin,G.M.,
+            Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   8  (bases 1 to 1974)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L., Berman,B.P.,
+            Bettencourt,B.R., Celniker,S.E., de Grey,A.D., Drysdale,R.A.,
+            Harris,N.L., Richter,J., Russo,S., Schroeder,A.J., Shu,S.Q.,
+            Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M., Rubin,G.M. and
+            Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   9  (bases 1 to 1974)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   10  (bases 1 to 1974)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A., Li,J.,
+            Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F., Zaveri,J.S.,
+            Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H., Zhong,F.N.,
+            Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O., Gibbs,R.A.,
+            Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   11  (bases 1 to 1974)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R., Smith,E.,
+            Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   12  (bases 1 to 1974)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   13  (bases 1 to 1974)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   14  (bases 1 to 1974)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15  (bases 1 to 1974)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16  (bases 1 to 1974)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project, Lawrence
+            Berkeley National Laboratory, One #Cyclotron RoadOne Cyclotron Road,
+            MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   17  (bases 1 to 1974)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project, Lawrence
+            Berkeley National Laboratory, One Cyclotron Road, MS 64-121,
+            Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   18  (bases 1 to 1974)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   19  (bases 1 to 1974)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.18
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+            REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_037436).
+            On Jan 16, 2013 this sequence version replaced NM_001144438.1.
+FEATURES             Location/Qualifiers
+     source          1..1974
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="3L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..1974
+                     /gene="Idh"
+                     /locus_tag="Dmel_CG7176"
+                     /gene_synonym="CG7176; cIdh; CT22171; Dmel\CG7176; ICDH;
+                     idh; IDH; Idh-NADP; IDH-NADP; isocitrate dehydrogenase;
+                     l(3)L3852"
+                     /note="Isocitrate dehydrogenase"
+                     /gen_map="3-24 cM"
+                     /map="66C8-66C8"
+                     /db_xref="FLYBASE:FBgn0001248"
+                     /db_xref="GeneID:44291"
+     CDS             284..1723
+                     /gene="Idh"
+                     /locus_tag="Dmel_CG7176"
+                     /gene_synonym="CG7176; cIdh; CT22171; Dmel\CG7176; ICDH;
+                     idh; IDH; Idh-NADP; IDH-NADP; isocitrate dehydrogenase;
+                     l(3)L3852"
+                     /EC_number="1.1.1.42"
+                     /EC_number="1.1.99.24"
+                     /note="CG7176 gene product from transcript CG7176-RK;
+                     CG7176-PK; Idh-PK; ISOCITRATE DEHYDROGENASE; isocitrate
+                     dehydrogenase (cytosolic); isocitrate dehydrolase;
+                     NADP-IDH; isocitrate dehydrogenase (NADP[+])"
+                     /codon_start=1
+                     /product="isocitrate dehydrogenase, isoform K"
+                     /protein_id="NP_001137910.2"
+                     /db_xref="FLYBASE:FBpp0305272"
+                     /db_xref="GeneID:44291"
+                     /db_xref="FLYBASE:FBgn0001248"
+                     /translation="MFALRRTAAMMTSVHRQPHLSQAVFRANFAISAADPKTHKISMDN
+                     ERMSAVSEHSSVVCSPEQMAQKIKAGPVVDVLGDEMTRIIWDSIKSQLILPFLDIELHT
+                     YDLGIENRDKTEDQVTIDCAEAIKKYNVGIKCATITPDEKRVEEFNLKKMWKSPNGTIR
+                     NILGGTVFREAIICKNVPRLVTGWQKPIVIGRHAHADQYKAVDYVVPGPGKLTLTWKGT
+                     DGQVIDEVINDFKGPGIALGMFNTDDSIVDFAHASFKYALDRKLPLYMSTKNTILKKYD
+                     GRFKDIFEDLYNKQYKKEYEAAGIWYEHRLIDDMVAYAMKSEGGFVWACKNYDGDVQSD
+                     SVAQGYGSLGLMTSVLLCPDGKTVEAEAAHGTVTRHFRFYQQGKETSTNPIASIFAWTR
+                     GLLHRAKLDNNEPLKQFADTLEQVCIDTIESGAMTKDLAICIKGNINAVTRRDYQETFE
+                     FINTLAKNLEGALAKNAVAAK"
+ORIGIN
+        1 acgccgattg cgcaacaatt tgacgattgt acgccaccca agagagtcgg aaactgtagc
+       61 gcttaacggc actttacagt tatcagttac ggttagagcg cgtctgacgc ccacagcatt
+      121 taattttgct ttgtccgaaa attgttctct ttcccgggac tccagtgtca tattgtctcg
+      181 tattgtttca cattggtgac aaacactatc gtctctcgtt tccagtcgtc ggtcggttca
+      241 ttcataataa taatacccac atccacacca atccggttgt aaaatgttcg ccctgcgccg
+      301 cacagccgca atgatgacgt cggtccaccg gcagccgcat ctcagccagg ccgtttttcg
+      361 ggccaatttc gccatcagcg ccgcggaccc caaaacccat aagatatcca tggataatga
+      421 aaggatgtcc gccgtgagcg agcactcaag tgtggtatgc tctcccgaac agatggccca
+      481 gaagatcaaa gccggtcccg ttgtggatgt cctcggtgac gagatgaccc gcatcatttg
+      541 ggactccatt aagagccaac tgattctgcc cttcctggac attgagctgc atacctacga
+      601 tcttggtatt gagaaccgcg ataaaaccga ggaccaggtc accattgact gtgctgaggc
+      661 catcaagaag tacaacgtgg gcatcaagtg cgccacaatc actcccgacg agaagcgcgt
+      721 agaggagttc aacctgaaga agatgtggaa gtcgcccaac ggtaccatcc gtaacatctt
+      781 gggaggaacc gtcttccgtg aggcaatcat ctgcaagaac gtgccccgtc tggtgactgg
+      841 ctggcagaag cctattgtga tcggtcgcca tgcccacgcc gatcagtaca aggccgtcga
+      901 ctacgtggtt cccggacccg gcaagctgac cctcacctgg aagggaaccg acggtcaggt
+      961 gatcgatgag gtcattaatg acttcaaggg ccccggtatt gccctgggaa tgttcaacac
+     1021 ggacgattcc attgtggact ttgcccacgc ctctttcaaa tatgctctgg accgcaagct
+     1081 gccgctgtac atgagcacca agaacaccat tctgaagaag tacgatggac gcttcaagga
+     1141 catattcgag gacctgtaca acaagcagta caagaaggag tacgaggcgg cgggcatctg
+     1201 gtatgaacac cgtctcatcg acgatatggt tgcttatgcc atgaagtcgg agggtggctt
+     1261 cgtgtgggcc tgcaagaact acgacggtga tgtgcagtcg gactccgttg cccagggcta
+     1321 cggatctctg ggtctgatga cctccgtgct gctatgcccc gatggcaaga ccgtggaggc
+     1381 tgaagccgct cacggaacgg tgacgcgtca cttccgcttc taccagcagg gcaaggagac
+     1441 ctccaccaac cccattgcct cgatattcgc ctggacccgt ggcctgctgc atcgtgccaa
+     1501 gctggacaac aatgagccac tgaagcagtt cgccgacacc cttgagcagg tgtgcatcga
+     1561 cacaattgag agcggcgcca tgaccaagga tctggccatc tgcattaaag gcaacatcaa
+     1621 cgccgttact cgcagggact accaggagac ttttgagttc attaacacgc tggccaagaa
+     1681 cctggagggt gccctggcca agaatgccgt tgctgccaaa tgactatccg gcactcagtc
+     1741 cgagcagcag gcctcgcatc tctagaaaac tactcagcga tgccttgtcc tcgtcaccat
+     1801 attcacaata tttccattcg tttttgtaga tgtgcatgtc ctaggctaaa aatccgtgtc
+     1861 ctcgatgcat gtttcccact gtttcattgt ctctgcgaga cgcaaaaaaa aaccctgatt
+     1921 tccctttaac gtctaacgga aaagaaattt caaataaatg tatttttata ccgg
+//
+LOCUS       XM_023306464            1960 bp    mRNA    linear   INV 18-DEC-2017
+DEFINITION  PREDICTED: Drosophila hydei dihydrolipoyllysine-residue
+            succinyltransferase component of 2-oxoglutarate dehydrogenase
+            complex, mitochondrial (LOC111593603), mRNA.
+ACCESSION   XM_023306464
+VERSION     XM_023306464.1
+DBLINK      BioProject: PRJNA422293
+KEYWORDS    RefSeq.
+SOURCE      Drosophila hydei
+  ORGANISM  Drosophila hydei
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila hydei Annotation Release
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019378668.1) annotated using gene prediction method: Gnomon.
+            Also see:
+            Documentation of NCBI's Annotation Process
+            100
+            pipeline
+FEATURES             Location/Qualifiers
+     source          1..1960
+                     /organism="Drosophila hydei"
+                     /mol_type="mRNA"
+                     /strain="15085-1641.55"
+                     /db_xref="taxon:7224"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="whole body"
+                     /dev_stage="adult"
+     gene            1..1960
+                     /gene="LOC111593603"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 8 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 4 samples with support for all annotated introns"
+                     /db_xref="GeneID:111593603"
+     CDS             192..1628
+                     /gene="LOC111593603"
+                     /codon_start=1
+                     /product="dihydrolipoyllysine-residue succinyltransferase
+                     component of 2-oxoglutarate dehydrogenase complex,
+                     mitochondrial"
+                     /protein_id="XP_023162232.1"
+                     /db_xref="GeneID:111593603"
+                     /translation="MAGIISILTRQLPRNVQTVGLKAVRNHELQLSARQYSQLAIVAAV
+                     QQQQQLLRRETYPTLRSHDAIRVLGWQSFHTTSSMWSEQVIKVPPFADSITEGDIKFTC
+                     KVGDSFGADEAVMEIETDKTTMPVPSPFAGSVTEILVKDGDTVKPGQELFKMKPGAAPA
+                     KPAGAPAPAKEAPAPAAAAPPKPAAPPAAAPAAPKTAPPPPPPPAARPPPAAPRAAPPP
+                     AAVRPAVAQVKVPPVDGSRQILGTRSEQRVKMNRMRQKIAARLKDAQNTCAMLTTFNEI
+                     DMSYAMDFRKQNLDAFTKKYGIKLGFMSIFSKASAYALQDQPVVNAVIDGQDIVYRDYV
+                     DISVAVATPRGLVVPVIRNVESMNYADIEIALAGLADKAKRDAITVEDMDGGTFTISNG
+                     GVFGSLMGTPIINPPQSAILGMHGIFERPIAVKGEVKIRPMMYVALTYDHRIIDGREAV
+                     LFLRKVKAAVENPAIIVAGL"
+ORIGIN
+        1 caaaagaaaa atccagcgct cagctgagta ttgagccatg acataagaag tgaacattcg
+       61 ttaagagggg agaaacgctg ttggattgcc gtagccccaa cacaattcta ttagttttaa
+      121 aaaattcgac aaaaagtact cacacaccac aacaatcgca gtagcagtgg aaacaaaacg
+      181 acatcacagc aatggcgggc atcatttcaa tactaacaag gcaattgccg cgaaacgtgc
+      241 aaactgttgg gctaaaagcc gtgcggaatc atgaactcca actcagtgcc cgtcagtatt
+      301 cccagctggc aattgttgct gcagtgcagc agcagcagca actgttgcgc cgggaaacgt
+      361 atcctactct gcgcagccat gatgcgattc gtgttttggg gtggcagagc tttcacacca
+      421 ccagcagcat gtggtcggag caggtaatca aggtgccgcc gtttgccgac tccatcaccg
+      481 aaggtgacat taaatttacc tgcaaagtgg gcgactcatt cggtgctgat gaggctgtta
+      541 tggagattga aactgataag acaacgatgc cggtgccgtc tccctttgct ggcagcgtga
+      601 cggaaattct agtcaaggac ggtgacacgg ttaagcctgg tcaggagctt ttcaaaatga
+      661 agcctggtgc agcgcctgct aagccagctg gagcacccgc tccagccaag gaggcaccag
+      721 ccccagcggc agctgctcca cctaagccag cggcaccgcc tgctgccgca cccgctgcac
+      781 caaaaacagc accaccaccg ccacctccac cagcagcgcg cccaccacca gctgctcccc
+      841 gtgccgcacc gcctccggca gccgtgagac ccgctgtggc ccaggtgaaa gtgcctccag
+      901 ttgacggctc ccgtcaaatt ctgggtacgc gatccgagca gcgcgtcaag atgaaccgaa
+      961 tgcgtcaaaa gatcgctgct cgcttgaagg atgctcaaaa cacgtgcgcc atgttgacca
+     1021 ctttcaacga aattgacatg agctatgcca tggacttccg aaagcaaaat cttgatgcat
+     1081 tcaccaagaa gtatggcatc aaacttggat tcatgtccat cttctcgaaa gccagtgcct
+     1141 atgcgctgca ggaccagccc gttgttaacg ccgtcatcga tggtcaggac attgtttatc
+     1201 gtgactatgt ggatatctca gtggctgttg ctacgccccg tggactggtt gtgcccgtca
+     1261 ttcgtaatgt tgagagtatg aactatgcgg acattgagat agccttagct ggtctggccg
+     1321 ataaggcaaa gcgcgatgcc atcaccgtgg aggatatgga cggtggcacc ttcaccatca
+     1381 gcaacggtgg cgtgtttgga tcactgatgg gtacgcccat cataaatcca cctcagagcg
+     1441 ctatacttgg catgcatggc atttttgagc gccccattgc tgtcaaggga gaggtcaaga
+     1501 tcaggcccat gatgtatgtt gccctgacat acgatcaccg aatcattgat ggacgtgagg
+     1561 cagtgttgtt cctgcgtaag gtgaaggctg ccgttgagaa tccagccatc attgttgccg
+     1621 gtctgtaagg gcagtctgtg aagtctgtta gcgctgcgtc cacgttgttc agatgatatt
+     1681 atcgaatctg tgacttaaaa ctgaagtaca gccaaattca ttgtataaac aaaaacttta
+     1741 aatttcatgt atttatttaa aaattaacga gtgtcacaaa ctgactttaa tttgggttta
+     1801 atcatagcga aatatacgta catacataaa atacacccat aataaaaaaa ttacgacgtg
+     1861 gacttgtttt caaaacgtta acctatcaga tttacttcta tgcacattca gtaatttaac
+     1921 gagcactgct aaatatcata tcgtaaataa atacgatttc
+//
+LOCUS       XM_023317386            1426 bp    mRNA    linear   INV 18-DEC-2017
+DEFINITION  PREDICTED: Drosophila hydei fumarate hydratase, mitochondrial-like
+            (LOC111600994), mRNA.
+ACCESSION   XM_023317386
+VERSION     XM_023317386.1
+DBLINK      BioProject: PRJNA422293
+KEYWORDS    RefSeq.
+SOURCE      Drosophila hydei
+  ORGANISM  Drosophila hydei
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila.
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Drosophila hydei Annotation Release
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_019379087.1) annotated using gene prediction method: Gnomon.
+            Also see:
+            Documentation of NCBI's Annotation Process
+            100
+            pipeline
+FEATURES             Location/Qualifiers
+     source          1..1426
+                     /organism="Drosophila hydei"
+                     /mol_type="mRNA"
+                     /strain="15085-1641.55"
+                     /db_xref="taxon:7224"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /tissue_type="whole body"
+                     /dev_stage="adult"
+     gene            1..1426
+                     /gene="LOC111600994"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 10 Proteins, and 99% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 4 samples with support for all annotated introns"
+                     /db_xref="GeneID:111600994"
+     CDS             1..1404
+                     /gene="LOC111600994"
+                     /codon_start=1
+                     /product="fumarate hydratase, mitochondrial-like"
+                     /protein_id="XP_023173154.1"
+                     /db_xref="GeneID:111600994"
+                     /translation="MSQPKSRVESDTIGQIEVPADRYFGAQTMRCLNNFPCGEMAERMP
+                     KPIIQAMGILKKAAAEVNKEFGLDSKIGTSISTVCDDIISGKLYDEGHFPLPIWQTGSG
+                     TMTNMNVNEVISNRCIEKDGGEMGSKDPVHPNDHVNKSQSSNDTFPTALHISVALQLVK
+                     DLKPAITELRDALKAKSIDWKNIIKIGRTHTQDAVPLTLGQEFSGYTQQLTNGLERIDA
+                     VLPHVYQLALGGTAVGTGLNTYKGFAEKSASRIAQLTSLPFVSAPNFFEALGSRDAMVE
+                     VHGALNTIAVSLMKIANDIRFLASGPRCGLGELSLPENEPGSSIMPGKVNPTQCEALTM
+                     ICAQVMGNHVAVSVGGSNGHFELNVFKPLIASNVIRSIRLLTDGCNTFTKNCVVGMKPN
+                     KERIQQHVNESLMLVTALNPHIGYDKSAKIAKEAHKNGTSLKQEAINAGISEEDFDEWV
+                     RPENMLGPA"
+ORIGIN
+        1 atgagtcagc cgaagagtcg cgttgagagc gacacgatcg ggcaaatcga ggtgccagct
+       61 gatcgttact ttggggccca gactatgcgt tgtctgaaca attttccctg tggcgaaatg
+      121 gctgaacgca tgccgaagcc cattatccag gccatgggca tattgaagaa ggccgccgct
+      181 gaggtcaata aggagtttgg gctggacagc aagatcggca catctatttc gactgtttgt
+      241 gatgacatca tctcgggcaa gctgtacgat gagggtcatt ttccactgcc catctggcaa
+      301 acgggatctg gcacaatgac gaacatgaat gtcaatgagg tgattagcaa tcgttgcatt
+      361 gaaaaagatg gtggtgagat gggctctaag gatccggtgc atcccaatga ccatgtgaac
+      421 aagtcccaga gctcgaatga cactttccca acagccttac acatttcagt ggctcttcag
+      481 ctggtcaagg acctgaagcc agcgatcact gagctgcgcg acgctctcaa ggctaagtcc
+      541 attgattgga agaacattat caaaattggg cgcacacaca cacaggatgc ggtgccactg
+      601 acattgggac aggagttcag cggctataca cagcagttaa ccaatgggct ggagcgaatc
+      661 gatgcggtat tgcctcatgt ctatcaactg gctctgggtg gcaccgccgt gggcaccggt
+      721 ctcaatacct acaagggatt cgcagagaag tccgccagtc gcattgccca gctcacatct
+      781 ttgccatttg tgagtgctcc gaatttcttt gaggccttgg gctccaggga tgccatggtc
+      841 gaggtgcatg gcgcattgaa caccattgcc gtaagcctca tgaagattgc caatgatata
+      901 cgattcctgg cttcagggcc gcgctgcggc ttgggcgagc tctctttgcc agagaacgag
+      961 ccaggaagct cgataatgcc gggcaaagta aatcccactc aatgcgaggc gttgactatg
+     1021 atctgtgctc aggtcatggg taatcatgta gccgtctctg tgggcggctc caatgggcac
+     1081 ttcgagctga atgtttttaa gccgttgata gcgtccaacg tcatacgttc gataaggctg
+     1141 ctaacggatg gctgtaacac attcaccaag aactgcgttg ttggaatgaa gccgaacaag
+     1201 gagcggattc aacagcatgt gaacgagtct ctgatgctgg tgacagcact caatcctcac
+     1261 attggctatg ataagtcagc caaaatagcc aaggaagctc ataagaatgg tacctctctg
+     1321 aagcaggagg ccatcaatgc tggcatctcg gaagaagatt tcgacgaatg ggtacgcccg
+     1381 gaaaacatgc ttggccccgc ctaagacaat ttcatgtaca tgtatt
+//
+LOCUS       AF047336                 339 bp    mRNA    linear   INV 25-JUL-2016
+DEFINITION  Drosophila heteroneura clone PCR23F transketolase (TKT) mRNA,
+            partial cds.
+ACCESSION   AF047336
+VERSION     AF047336.1
+KEYWORDS    .
+SOURCE      Drosophila heteroneura
+  ORGANISM  Drosophila heteroneura
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Holometabola; Diptera; Brachycera; Muscomorpha;
+            Ephydroidea; Drosophilidae; Drosophila; Hawaiian Drosophila.
+REFERENCE   1  (bases 1 to 339)
+  AUTHORS   Davis,T., Kurihara,J. and Yamamoto,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-FEB-1998) CCRT, University of Hawaii at Manoa, Maile
+            Way, Honolulu, HI 96822, USA
+FEATURES             Location/Qualifiers
+     source          1..339
+                     /organism="Drosophila heteroneura"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:32382"
+                     /clone="PCR23F"
+     gene            <1..>339
+                     /gene="TKT"
+     CDS             <1..>339
+                     /gene="TKT"
+                     /function="catalyzes sedoheptulose 7-phosphate plus
+                     D-glyceraldehyde 3-phosphate to D-ribose 5-phosphate plus
+                     D-xylulose 5-phosphate"
+                     /codon_start=1
+                     /product="transketolase"
+                     /protein_id="AAC04864.1"
+                     /translation="APEVDINNIKLCTPPSYKLGDSIATRLAYGTALAKIGADNDRVIA
+                     LDGDTKNSTYSDKLRNAYPERYIECFIAEQNLVGVAIGTACRRRTVAFVSTFATFFTRA
+                     YDQIRMCCR"
+ORIGIN
+        1 gcgcccgaag tcgatatcaa taatatcaag ctgtgtacac cgcccagtta caagctgggt
+       61 gattcgattg caacgcgtct ggcatacggc acagctctgg ccaagattgg ggctgacaat
+      121 gatcgggtga ttgccctcga cggtgatacg aagaactcaa cgtattcaga caagttgcgc
+      181 aatgcgtatc cggagcgtta catcgaatgc ttcattgcgg agcagaatct ggtgggtgtg
+      241 gcaattggga ccgcctgtcg tcgacgcacc gtcgccttcg tctccacctt tgccacgttc
+      301 tttacgcgtg cctacgatca gattcggatg tgctgccgc
+//
